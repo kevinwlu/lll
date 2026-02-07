@@ -1,4 +1,4 @@
-# Research and Documentation
+# Research
 * [DBLP](https://en.wikipedia.org/wiki/DBLP)
 * [ORCID](https://en.wikipedia.org/wiki/ORCID) Open Researcher and Contributor ID
 * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
