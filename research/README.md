@@ -1,7 +1,7 @@
 # Research
 * [DBLP](https://en.wikipedia.org/wiki/DBLP)
 * [ORCID](https://en.wikipedia.org/wiki/ORCID) Open Researcher and Contributor ID
-* [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
+* [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "[You and Your Research](/research/You and Your Research.pdf)"
   * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) transcribed by [James Frederick Kaiser](https://en.wikipedia.org/wiki/James_Kaiser) 1929&mdash;2020
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
