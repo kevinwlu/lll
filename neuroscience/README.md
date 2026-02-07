@@ -1,0 +1,47 @@
+# Neuroscience
+* [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
+  * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+  * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
+    * [Feynman Technique](https://fs.blog/feynman-learning-technique/) used by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
+  * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
+    * [Candle problem](https://en.wikipedia.org/wiki/Candle_problem)
+    * [Matchstick puzzle](https://en.wikipedia.org/wiki/Matchstick_puzzle)
+    * [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
+    * [Nine dots puzzle](https://en.wikipedia.org/wiki/Nine_dots_puzzle)
+* Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
+  * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
+  * The [human brain](https://en.wikipedia.org/wiki/Human_brain) has 86 billion [neurons](https://en.wikipedia.org/wiki/Neuron)
+    * [MICrONS](https://en.wikipedia.org/wiki/MICrONS)
+    * [BossDB](https://bossdb.org/)
+    * [MICrONS Project](https://www.nature.com/immersive/d42859-025-00001-w/index.html), April 9, 2025
+    * [Scientists map unprecedented detail of connections and visual perception in the mouse brain](https://www.nih.gov/news-events/news-releases/scientists-map-unprecedented-detail-connections-visual-perception-mouse-brain), April 9,2025
+  * [Amygdala](https://en.wikipedia.org/wiki/Amygdala)
+  * [Cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex)
+  * [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
+  * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
+    * [Action potential](https://en.wikipedia.org/wiki/Action_potential)
+    * [Dendritic action potentials and computation in human layer 2/3 cortical neurons](https://www.science.org/doi/10.1126/science.aax6239)
+      * Calcium-mediated dendritic action potentials (dCaAPs)
+  * [Axon](https://en.wikipedia.org/wiki/Axon)
+  * [Synapse](https://en.wikipedia.org/wiki/Synapse)
+  * [Working memory](https://en.wikipedia.org/wiki/Working_memory)
+  * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
+  * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
+  * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
+  * [Dopamine](https://en.wikipedia.org/wiki/Dopamine)
+  * [Endorphins](https://en.wikipedia.org/wiki/Endorphins)
+* [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
+  * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
+* [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
+* [Learning disability](https://en.wikipedia.org/wiki/Learning_disability)
+  * [Dyscalculia](https://en.wikipedia.org/wiki/Dyscalculia)
+  * [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia)
+  * [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia)
+    * [BeyondWords](https://play.google.com/store/apps/details?id=com.beyondwords&hl=en)
+    * [OpenDyslexic](https://en.wikipedia.org/wiki/OpenDyslexic)
+* [Optical illusion](https://en.wikipedia.org/wiki/Optical_illusion)
+  * [Best Illusion of the Year Contest](https://illusionoftheyear.com/)
+  * [Poggendorff illusion](https://en.wikipedia.org/wiki/Poggendorff_illusion)
+  * [Johann Christian Poggendorff](https://en.wikipedia.org/wiki/Johann_Christian_Poggendorff) 1796&mdash;1877
+* [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+* [Helen Fisher (anthropologist)](https://en.wikipedia.org/wiki/Helen_Fisher_(anthropologist)) 1945&mdash;2024
