@@ -1,4 +1,4 @@
-## Arts
+# Arts
 * [List of most-visited art museums](https://en.wikipedia.org/wiki/List_of_most-visited_art_museums)
   * [Uffizi](https://en.wikipedia.org/wiki/Uffizi)
 * [Bayeux Tapestry](https://en.wikipedia.org/wiki/Bayeux_Tapestry)
