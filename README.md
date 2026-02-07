@@ -1,4 +1,5 @@
 # Lifelong Learning (LLL)
+Make lifelong learning an everyday habit
 * [Learning](https://en.wikipedia.org/wiki/Learning)
   * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
   * [Evidence-based education](https://en.wikipedia.org/wiki/Evidence-based_education)
