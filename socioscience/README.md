@@ -1,4 +1,5 @@
 # Social Sciences
+* [*Cordon sanitaire* (politics)](https://en.wikipedia.org/wiki/Cordon_sanitaire_(politics))
 * [Perpetual foreigner](https://en.wikipedia.org/wiki/Perpetual_foreigner)
 * [Socioemotional selectivity theory](https://en.wikipedia.org/wiki/Socioemotional_selectivity_theory)
   * [Laura L. Carstensen](https://en.wikipedia.org/wiki/Laura_L._Carstensen)
