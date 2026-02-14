@@ -51,6 +51,10 @@
     * [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
 * [Verisimilitude](https://en.wikipedia.org/wiki/Verisimilitude)
   * [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) 1902&mdash;1994
+* [Richard Stephens](https://www.keele.ac.uk/psychology/people/richardstephens/)
+  * [Keele University](https://en.wikipedia.org/wiki/Keele_University)
+  * [Sympathovagal balance: how should we measure it?](https://pubmed.ncbi.nlm.nih.gov/10199852/)
+  * [Postural orthostatic tachycardia syndrome](https://en.wikipedia.org/wiki/Postural_orthostatic_tachycardia_syndrome) (POTS)
 ---
 * [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
   * [Antisocial personality disorder](https://en.wikipedia.org/wiki/Antisocial_personality_disorder) (ASPD)
@@ -58,6 +62,7 @@
   * [Avoidant personality disorder](https://en.wikipedia.org/wiki/Avoidant_personality_disorder) (AvPD)
   * [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
     * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
+    * [*Monk* (TV series)](https://en.wikipedia.org/wiki/Monk_(TV_series)) 2002&mdash;2009
   * [Oppositional defiant disorder](https://en.wikipedia.org/wiki/Oppositional_defiant_disorder) (ODD)
   * [Pathological demand avoidance](https://en.wikipedia.org/wiki/Pathological_demand_avoidance) (PDA)
 * [Gabor Maté](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9)
