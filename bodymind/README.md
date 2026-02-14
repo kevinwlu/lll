@@ -55,6 +55,13 @@
   * [Keele University](https://en.wikipedia.org/wiki/Keele_University)
   * [Sympathovagal balance: how should we measure it?](https://pubmed.ncbi.nlm.nih.gov/10199852/)
   * [Postural orthostatic tachycardia syndrome](https://en.wikipedia.org/wiki/Postural_orthostatic_tachycardia_syndrome) (POTS)
+* [Nervous system](https://en.wikipedia.org/wiki/Nervous_system)
+  * [Central nervous system](https://en.wikipedia.org/wiki/Central_nervous_system) (CNS)
+  * [Autonomic nervous system](https://en.wikipedia.org/wiki/Autonomic_nervous_system) (ANS)
+    * [Sympathetic nervous system](https://en.wikipedia.org/wiki/Sympathetic_nervous_system) (SNS)
+    * [Parasympathetic nervous system](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system) (PSNS)
+    * [Enteric nervous system](https://en.wikipedia.org/wiki/Enteric_nervous_system) (ENS)
+  * [Vagus nerve](https://en.wikipedia.org/wiki/Vagus_nerve)
 ---
 * [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
   * [Antisocial personality disorder](https://en.wikipedia.org/wiki/Antisocial_personality_disorder) (ASPD)
