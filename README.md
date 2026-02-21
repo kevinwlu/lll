@@ -123,6 +123,8 @@ Make lifelong learning an everyday habit
   * [Weehawken, New Jersey](https://en.wikipedia.org/wiki/Weehawken,_New_Jersey)
 * [njSTEMlink](https://rdnj.org/program/njstemlink/)
 * [Per Scholas](https://en.wikipedia.org/wiki/Per_Scholas)
+* [Students 2 Science](https://www.students2science.org/) (S2S)
+  * [Apollo Technology Center](https://www.students2science.org/apollo/)
 ---
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
 * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952, "Education is not preparation for life; education is life itself."
