@@ -35,6 +35,8 @@
 * [A possible declining trend for worldwide innovation](https://www.sciencedirect.com/science/article/abs/pii/S0040162505000235) 2005
 * [My Doubts about *The End of Science*](https://johnhorgan.org/cross-check/my-doubts-about-the-end-of-science) 2023
 ---
+* [Modes of persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion)
+* [Modes of discourse](https://en.wikipedia.org/wiki/Modes_of_discourse)
 * [Capitalize My Title](https://capitalizemytitle.com/)
 * [Title Case Converter](https://titlecaseconverter.com/)
 * [APA style](https://en.wikipedia.org/wiki/APA_style)
