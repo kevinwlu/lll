@@ -45,8 +45,6 @@
   * [The Project Gutenberg eBook 8800](https://www.gutenberg.org/ebooks/8800)
 * [*Divina proportione*](https://en.wikipedia.org/wiki/Divina_proportione) 1509 by [Luca Pacioli](https://en.wikipedia.org/wiki/Luca_Pacioli) 1447&mdash;1517
   * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
-* [Faust](https://en.wikipedia.org/wiki/Faust)
-  * [Johann Georg Faust](https://en.wikipedia.org/wiki/Johann_Georg_Faust) 
 * [*The Notebooks of Leonardo da Vinci*](https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Journals_and_notes) by [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) 1452&mdash;1519
   * [The Project Gutenberg eBook 5000](https://www.gutenberg.org/ebooks/5000)
   * [*Vitruvian Man*](https://en.wikipedia.org/wiki/Vitruvian_Man)
@@ -74,6 +72,9 @@
 * [Voltaire](https://en.wikipedia.org/wiki/Voltaire) 1694&mdash;1778
 * [*The Social Contract*](https://en.wikipedia.org/wiki/The_Social_Contract) 1762 by [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) 1712&mdash;1778
   * [The Project Gutenberg eBook 46333](https://www.gutenberg.org/ebooks/46333)
+* [Goethe's *Faust*](https://en.wikipedia.org/wiki/Goethe%27s_Faust) by [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) 1749&mdash;1832
+  * [Faust](https://en.wikipedia.org/wiki/Faust)
+  * [Johann Georg Faust](https://en.wikipedia.org/wiki/Johann_Georg_Faust)  
 * [*Pride and Prejudice*](https://en.wikipedia.org/wiki/Pride_and_Prejudice) 1813 by [Jane Austen](https://en.wikipedia.org/wiki/Jane_Austen) 1775&mdash;1817 
   * [The Project Gutenberg eBook 1342](https://www.gutenberg.org/ebooks/1342)
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
