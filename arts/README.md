@@ -47,7 +47,7 @@
   * [Winged Victory of Samothrace](https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace) 200 BC&mdash;190 BC
 * [Arnaldo Pomodoro](https://en.wikipedia.org/wiki/Arnaldo_Pomodoro) 1926&mdash;2025
   * [*Sphere Within Sphere*](https://en.wikipedia.org/wiki/Sphere_Within_Sphere)
----
+## Music
 * [Music of China](https://en.wikipedia.org/wiki/Music_of_China)
   * [Mo Li Hua](https://en.wikipedia.org/wiki/Mo_Li_Hua)
 * [List of classical music composers by period](https://simple.wikipedia.org/wiki/List_of_classical_music_composers_by_period)
@@ -84,12 +84,12 @@
 ---
 * [Fightin' Texas Aggie Band](https://en.wikipedia.org/wiki/Fightin'_Texas_Aggie_Band)
 * [Top Secret Drum Corps](https://en.wikipedia.org/wiki/Top_Secret_Drum_Corps)
----
+## Dance
 * [List of dances](https://simple.wikipedia.org/wiki/List_of_dances)
 * [Hopak](https://en.wikipedia.org/wiki/Hopak)
 * [Malambo](https://en.wikipedia.org/wiki/Malambo_(dance))
 * [Zaouli](https://en.wikipedia.org/wiki/Zaouli)
----
+## Architecture
 * [List of architectural styles](https://en.wikipedia.org/wiki/List_of_architectural_styles)
   * [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus)
   * [Brutalist architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
@@ -117,7 +117,7 @@
   * [List of I. M. Pei projects](https://en.wikipedia.org/wiki/List_of_I._M._Pei_projects)
 * [Frank Gehry](https://en.wikipedia.org/wiki/Frank_Gehry) 1929&mdash;2025
 * [Ma Yansong](https://en.wikipedia.org/wiki/Ma_Yansong)
----
+## Photography
 * [Photography](https://en.wikipedia.org/wiki/Photography)
 * [List of photographs considered the most important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
 * [Julia Margaret Cameron](https://en.wikipedia.org/wiki/Julia_Margaret_Cameron) 1815&mdash;1879
