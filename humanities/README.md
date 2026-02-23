@@ -45,6 +45,8 @@
   * [The Project Gutenberg eBook 8800](https://www.gutenberg.org/ebooks/8800)
 * [*Divina proportione*](https://en.wikipedia.org/wiki/Divina_proportione) 1509 by [Luca Pacioli](https://en.wikipedia.org/wiki/Luca_Pacioli) 1447&mdash;1517
   * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
+* [Faust](https://en.wikipedia.org/wiki/Faust)
+  * [Johann Georg Faust](https://en.wikipedia.org/wiki/Johann_Georg_Faust) 
 * [*The Notebooks of Leonardo da Vinci*](https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Journals_and_notes) by [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) 1452&mdash;1519
   * [The Project Gutenberg eBook 5000](https://www.gutenberg.org/ebooks/5000)
   * [*Vitruvian Man*](https://en.wikipedia.org/wiki/Vitruvian_Man)
