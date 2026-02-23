@@ -74,7 +74,10 @@
   * [The Project Gutenberg eBook 46333](https://www.gutenberg.org/ebooks/46333)
 * [Goethe's *Faust*](https://en.wikipedia.org/wiki/Goethe%27s_Faust) by [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) 1749&mdash;1832
   * [Faust](https://en.wikipedia.org/wiki/Faust)
-  * [Johann Georg Faust](https://en.wikipedia.org/wiki/Johann_Georg_Faust)  
+  * [Johann Georg Faust](https://en.wikipedia.org/wiki/Johann_Georg_Faust)
+  * [Pan Twardowski](https://en.wikipedia.org/wiki/Pan_Twardowski)
+  * [The Smith and the Devil](https://en.wikipedia.org/wiki/The_Smith_and_the_Devil)
+  * [Brothers Grimm](https://en.wikipedia.org/wiki/Brothers_Grimm)
 * [*Pride and Prejudice*](https://en.wikipedia.org/wiki/Pride_and_Prejudice) 1813 by [Jane Austen](https://en.wikipedia.org/wiki/Jane_Austen) 1775&mdash;1817 
   * [The Project Gutenberg eBook 1342](https://www.gutenberg.org/ebooks/1342)
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
