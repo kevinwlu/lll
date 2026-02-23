@@ -121,3 +121,5 @@
 * [Photography](https://en.wikipedia.org/wiki/Photography)
 * [List of photographs considered the most important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
 * [Julia Margaret Cameron](https://en.wikipedia.org/wiki/Julia_Margaret_Cameron) 1815&mdash;1879
+* [Daguerreotype](https://en.wikipedia.org/wiki/Daguerreotype)
+  * [Louis Daguerre](https://en.wikipedia.org/wiki/Louis_Daguerre) 1787&mdash;1851
