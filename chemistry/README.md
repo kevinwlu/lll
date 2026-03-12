@@ -29,3 +29,4 @@
 * [Sodium carbonate](https://en.wikipedia.org/wiki/Sodium_carbonate) also known as washing soda
 * [Sodium bicarbonate](https://en.wikipedia.org/wiki/Sodium_bicarbonate) commonly known as baking soda
 * [Sodium thiosulfate](https://en.wikipedia.org/wiki/Sodium_thiosulfate)
+* [Superfluidity](https://en.wikipedia.org/wiki/Superfluidity)
