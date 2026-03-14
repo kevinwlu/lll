@@ -90,6 +90,7 @@
 * [Indian classical dance](https://en.wikipedia.org/wiki/Indian_classical_dance)
   * [Bala Devi Chandrashekar](https://en.wikipedia.org/wiki/Bala_Devi_Chandrashekar)
   * [*Bharatanatyam*](https://en.wikipedia.org/wiki/Bharatanatyam)
+    * [Pandanallur style](https://en.wikipedia.org/wiki/Pandanallur_style)
   * [Karana (dance)](https://en.wikipedia.org/wiki/Karana_(dance))
   * [*Kuchipudi*](https://en.wikipedia.org/wiki/Kuchipudi)
 * [Malambo](https://en.wikipedia.org/wiki/Malambo_(dance))
