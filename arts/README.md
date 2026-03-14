@@ -87,6 +87,11 @@
 ## Dance
 * [List of dances](https://simple.wikipedia.org/wiki/List_of_dances)
 * [Hopak](https://en.wikipedia.org/wiki/Hopak)
+* [Indian classical dance](https://en.wikipedia.org/wiki/Indian_classical_dance)
+  * [Bala Devi Chandrashekar](https://en.wikipedia.org/wiki/Bala_Devi_Chandrashekar)
+  * [*Bharatanatyam*](https://en.wikipedia.org/wiki/Bharatanatyam)
+  * [Karana (dance)](https://en.wikipedia.org/wiki/Karana_(dance))
+  * [*Kuchipudi*](https://en.wikipedia.org/wiki/Kuchipudi)
 * [Malambo](https://en.wikipedia.org/wiki/Malambo_(dance))
 * [Zaouli](https://en.wikipedia.org/wiki/Zaouli)
 ## Architecture
