@@ -1,6 +1,8 @@
 # Physics
 * [Tsung-Dao Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) 1926&mdash;2024
 * [Chen-Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) 1922&mdash;2025
+* [Claire F. Gmachl](https://en.wikipedia.org/wiki/Claire_F._Gmachl)
+  * [Quantum-cascade laser](https://en.wikipedia.org/wiki/Quantum-cascade_laser)
 * [Robert Mills (physicist)](https://en.wikipedia.org/wiki/Robert_Mills_(physicist)) 1927&mdash;1999
   * [Yang–Mills theory](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_theory)
   * [Yang–Mills existence and mass gap](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap)
