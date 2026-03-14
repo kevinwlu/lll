@@ -5,6 +5,7 @@
 * [Bromine](https://en.wikipedia.org/wiki/Bromine)
 * [Brominated flame retardant](https://en.wikipedia.org/wiki/Brominated_flame_retardant) (BFR)
 * [Dark oxygen](https://en.wikipedia.org/wiki/Dark_oxygen)
+* [Energy Literacy: Essential Principles for Energy Education](https://www.energy.gov/energysaver/energy-literacy-essential-principles-energy-education)
 * [Flame retardant](https://en.wikipedia.org/wiki/Flame_retardant)
   * [Conflagration](https://en.wikipedia.org/wiki/Conflagration)
 * [List of phytochemicals in food](https://en.wikipedia.org/wiki/List_of_phytochemicals_in_food)
