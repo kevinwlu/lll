@@ -20,6 +20,7 @@
 * [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
 * [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html)
 * [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
+* [Investigating Research Crimes](https://www.science.org/content/article/investigating-research-crimes), July 15, 2014
 * [JSTOR](https://en.wikipedia.org/wiki/JSTOR) (Journal Stroage)
 * [Legal ethics](https://en.wikipedia.org/wiki/Legal_ethics)
 * [Medical ethics](https://en.wikipedia.org/wiki/Medical_ethics)
