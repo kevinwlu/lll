@@ -20,6 +20,7 @@
 * [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
 * [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html)
 * [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
+* [*Introduction to the Responsible Conduct of Research*](https://ori.hhs.gov/ori-introduction-responsible-conduct-research) by [Nicholas Steneck](https://www.wcrif.org/persons/nicholas-steneck)
 * [Investigating Research Crimes](https://www.science.org/content/article/investigating-research-crimes), July 15, 2014
 * [JSTOR](https://en.wikipedia.org/wiki/JSTOR) (Journal Stroage)
 * [Legal ethics](https://en.wikipedia.org/wiki/Legal_ethics)
@@ -38,3 +39,4 @@
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
+* [United States Office of Research Integrity](https://en.wikipedia.org/wiki/United_States_Office_of_Research_Integrity) (ORI)
