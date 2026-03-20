@@ -19,6 +19,8 @@
 * [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) 1826&mdash;1866
 * [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) 1872&mdash;1970
   * [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) 1910, 1912, 1913
+* [Gerd Faltings](https://en.wikipedia.org/wiki/Gerd_Faltings)
+  * [Faltings's theorem](https://en.wikipedia.org/wiki/Faltings%27s_theorem)
 * [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) 1906&mdash;1978
   * [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems) 1931
 * [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) 1913&mdash;1996
