@@ -28,7 +28,9 @@
 * [Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha) 1860&mdash;1939
 * [Gustav Klimt](https://en.wikipedia.org/wiki/Gustav_Klimt) 1862&mdash;1918
 * [Henri de Toulouse-Lautrec](https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec) 1864&mdash;1901
+* [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse) 1869&mdash;1954
 * [Aubrey Beardsley](https://en.wikipedia.org/wiki/Aubrey_Beardsley) 1872&mdash;1898
+* [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) 1881&mdash;1973
 * [Jean Cocteau](https://en.wikipedia.org/wiki/Jean_Cocteau) 1889&mdash;1963
 * [Man Ray](https://en.wikipedia.org/wiki/Man_Ray) 1890&mdash;1976
 * [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki)
