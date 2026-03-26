@@ -44,6 +44,7 @@
   * [Tangram](https://en.wikipedia.org/wiki/Tangram)
   * [Tiling puzzle](https://en.wikipedia.org/wiki/Tiling_puzzle)
 * [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal)
+  * [Heisuke Hironaka](https://en.wikipedia.org/wiki/Heisuke_Hironaka) 1931&mdash;2026
 * [Gradarius](https://www.gradarius.com/)
 * [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman)
   * [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture)
