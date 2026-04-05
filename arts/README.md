@@ -25,6 +25,8 @@
 * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
   * [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
   * [Casa Batlló](https://en.wikipedia.org/wiki/Casa_Batll%C3%B3)
+* [Georges Seurat](https://en.wikipedia.org/wiki/Georges_Seurat) 1859&mdash;1891
+  * [Pointillism](https://en.wikipedia.org/wiki/Pointillism)
 * [Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha) 1860&mdash;1939
 * [Gustav Klimt](https://en.wikipedia.org/wiki/Gustav_Klimt) 1862&mdash;1918
 * [Henri de Toulouse-Lautrec](https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec) 1864&mdash;1901
