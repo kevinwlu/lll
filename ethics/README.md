@@ -24,6 +24,7 @@
 * [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
 * [Internet Crime Complaint Center](https://en.wikipedia.org/wiki/Internet_Crime_Complaint_Center) (IC3)
   * [Elder Fraud](https://www.ic3.gov/crimeinfo/elderfraud)
+  * [Pig butchering scam](https://en.wikipedia.org/wiki/Pig_butchering_scam)
 * [*Introduction to the Responsible Conduct of Research*](https://ori.hhs.gov/ori-introduction-responsible-conduct-research) by [Nicholas Steneck](https://www.wcrif.org/persons/nicholas-steneck)
 * [Investigating Research Crimes](https://www.science.org/content/article/investigating-research-crimes), July 15, 2014
 * [JSTOR](https://en.wikipedia.org/wiki/JSTOR) (Journal Stroage)
