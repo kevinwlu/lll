@@ -100,25 +100,26 @@
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
   * Cervico-ocular reflex (COR)
   * [Optokinetic response](https://en.wikipedia.org/wiki/Optokinetic_response) (OKR)
----
+## Interstitium
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
   * [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
   * [Endomicroscopy](https://en.wikipedia.org/wiki/Endomicroscopy)
   * [Fascia](https://en.wikipedia.org/wiki/Fascia)
   * [Fibromyalgia](https://en.wikipedia.org/wiki/Fibromyalgia)
   * [Gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
+  * ["Inside the Interstitium: the Human Body's Hidden Pathways"](https://www.nytimes.com/interactive/2026/05/11/magazine/interstitium-anatomy-acupuncture-medicine.html), May 11, 2026
   * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
     * [Chakra](https://en.wikipedia.org/wiki/Chakra)
     * [Meridian](https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine))
   * [Lymphatic vessel](https://en.wikipedia.org/wiki/Lymphatic_vessel)
   * [Submucosa](https://en.wikipedia.org/wiki/Submucosa)
 * [Is the Newly Described Interstitial Network the Anatomical Basis of Acupuncture Meridians? A Commentary](https://pubmed.ncbi.nlm.nih.gov/30874366/)
----
+## Animals
 * [Anaconda](https://en.wikipedia.org/wiki/Anaconda) | [Python](https://en.wikipedia.org/wiki/Python_(genus))
 * [Condor](https://en.wikipedia.org/wiki/Condor) | [Eagle](https://en.wikipedia.org/wiki/Eagle)
 * [Emu](https://en.wikipedia.org/wiki/Emu) | [Ostrich](https://en.wikipedia.org/wiki/Ostrich)
 * [Flamingo](https://en.wikipedia.org/wiki/Flamingo) | [Flamenco](https://en.wikipedia.org/wiki/Flamenco)
-  > The Spanish word flamenco can refer to both a bird and a traditional Andalusian art form that includes music, dance, and singing.
-  > There is some evidence that flamenco, a traditional Spanish art form, has roots in Rajasthan, India.
+  * The Spanish word flamenco can refer to both a bird and a traditional Andalusian art form that includes music, dance, and singing.
+  * There is some evidence that flamenco, a traditional Spanish art form, has roots in Rajasthan, India.
 * [Piping plover](https://en.wikipedia.org/wiki/Piping_plover)
 * [Swift (bird)](https://en.wikipedia.org/wiki/Swift_(bird))
