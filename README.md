@@ -103,6 +103,13 @@ Make lifelong learning an everyday habit
   * [Time perception](https://en.wikipedia.org/wiki/Time_perception)
   * [Procrastination](https://en.wikipedia.org/wiki/Procrastination) 
   * [Senioritis](https://en.wikipedia.org/wiki/Senioritis)
+  * [Eric Jerome Dickey](https://en.wikipedia.org/wiki/Eric_Jerome_Dickey) 1961&mdash;2021
+    * "Early is on on time, on time is late, and late is unacceptable."
+  * [Vince Lombardi](https://en.wikipedia.org/wiki/Vince_Lombardi) 1913&mdash;1970
+    * "If you're not 15 minutes early, you're late."
+    * [Quotations](https://en.wikiquote.org/wiki/Vince_Lombardi)
+    * [7 Things You May Not Know About Vince Lombardi](https://now.fordham.edu/fordham-magazine/7-things-you-may-not-know-about-vince-lombardi/)
+    * [StoryWorks E132 - Lombardi Time - If You’re On Time, You’re Late](https://www.youtube.com/watch?v=ctwp5XbOUrE)
 * [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Coaching](https://en.wikipedia.org/wiki/Coaching)
 * [Rapid eye movement sleep](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
