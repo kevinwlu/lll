@@ -102,14 +102,14 @@
   * [Optokinetic response](https://en.wikipedia.org/wiki/Optokinetic_response) (OKR)
 ## Interstitium
 * [Is the Newly Described Interstitial Network the Anatomical Basis of Acupuncture Meridians? A Commentary](https://pubmed.ncbi.nlm.nih.gov/30874366/)
-  * [Neil Theise](https://www.neiltheiseofficial.com/)
-  * [Rebecca Wells](https://www.wellslab.com/)
   * [Gaspare Aselli](https://en.wikipedia.org/wiki/Gaspare_Aselli) 1581&mdash;1625
   * [William Harvey](https://en.wikipedia.org/wiki/William_Harvey) 1578&mdash;1657
   * [Franklin P. Mall](https://en.wikipedia.org/wiki/Franklin_P._Mall) 1862&mdash;1917
   * [Helene Langevin](https://en.wikipedia.org/wiki/Helene_Langevin)
+  * [Neil Theise](https://www.neiltheiseofficial.com/)
+  * [Rebecca Wells](https://www.wellslab.com/)
 * P.C. Benias et al., "[Structure and Distribution of an Unrecognized Interstitium in Human Tissues](https://www.nature.com/articles/s41598-018-23062-6)." Sci Rep 8, 4947 (2018).
-* H. Li et al., [Layers of interstitial fluid flow along a “slit-shaped” vascular adventitia](https://pmc.ncbi.nlm.nih.gov/articles/PMC8377578/) J Zhejiang Univ Sci B. 2021 Aug 15;22(8):647-663.
+* H. Li et al., "[Layers of interstitial fluid flow along a “slit-shaped” vascular adventitia](https://pmc.ncbi.nlm.nih.gov/articles/PMC8377578/)." J Zhejiang Univ Sci B. 2021 Aug 15;22(8):647-663.
 * O. Cenaj et al., "[Evidence for continuity of interstitial spaces across tissue and organ boundaries in humans](https://www.nature.com/articles/s42003-021-01962-0)." Commun Biol 4, 436 (2021).
 * [A Study of Narmafotinib Given in Combination With Modified FOLFIRINOX in Patients With Metastatic Pancreatic Cancer](https://clinicaltrials.gov/study/NCT07026279)
 * [Apoplast](https://en.wikipedia.org/wiki/Apoplast)
