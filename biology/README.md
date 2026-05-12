@@ -101,19 +101,32 @@
   * Cervico-ocular reflex (COR)
   * [Optokinetic response](https://en.wikipedia.org/wiki/Optokinetic_response) (OKR)
 ## Interstitium
-* [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
-  * [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
-  * [Endomicroscopy](https://en.wikipedia.org/wiki/Endomicroscopy)
-  * [Fascia](https://en.wikipedia.org/wiki/Fascia)
-  * [Fibromyalgia](https://en.wikipedia.org/wiki/Fibromyalgia)
-  * [Gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
-  * ["Inside the Interstitium: the Human Body's Hidden Pathways"](https://www.nytimes.com/interactive/2026/05/11/magazine/interstitium-anatomy-acupuncture-medicine.html), May 11, 2026
-  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
-    * [Chakra](https://en.wikipedia.org/wiki/Chakra)
-    * [Meridian](https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine))
-  * [Lymphatic vessel](https://en.wikipedia.org/wiki/Lymphatic_vessel)
-  * [Submucosa](https://en.wikipedia.org/wiki/Submucosa)
 * [Is the Newly Described Interstitial Network the Anatomical Basis of Acupuncture Meridians? A Commentary](https://pubmed.ncbi.nlm.nih.gov/30874366/)
+  * [Neil Theise](https://www.neiltheiseofficial.com/)
+  * [Rebecca Wells](https://www.wellslab.com/)
+  * [Gaspare Aselli](https://en.wikipedia.org/wiki/Gaspare_Aselli) 1581&mdash;1625
+  * [William Harvey](https://en.wikipedia.org/wiki/William_Harvey) 1578&mdash;1657
+  * [Franklin P. Mall](https://en.wikipedia.org/wiki/Franklin_P._Mall) 1862&mdash;1917
+  * [Helene Langevin](https://en.wikipedia.org/wiki/Helene_Langevin)
+* P.C. Benias et al., "[Structure and Distribution of an Unrecognized Interstitium in Human Tissues](https://www.nature.com/articles/s41598-018-23062-6)." Sci Rep 8, 4947 (2018).
+* H. Li et al., [Layers of interstitial fluid flow along a “slit-shaped” vascular adventitia](https://pmc.ncbi.nlm.nih.gov/articles/PMC8377578/) J Zhejiang Univ Sci B. 2021 Aug 15;22(8):647-663.
+* O. Cenaj et al., "[Evidence for continuity of interstitial spaces across tissue and organ boundaries in humans](https://www.nature.com/articles/s42003-021-01962-0)." Commun Biol 4, 436 (2021).
+* [A Study of Narmafotinib Given in Combination With Modified FOLFIRINOX in Patients With Metastatic Pancreatic Cancer](https://clinicaltrials.gov/study/NCT07026279)
+* [Apoplast](https://en.wikipedia.org/wiki/Apoplast)
+* [Bile](https://en.wikipedia.org/wiki/Bile)
+* [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
+* [Endomicroscopy](https://en.wikipedia.org/wiki/Endomicroscopy)
+* [Fascia](https://en.wikipedia.org/wiki/Fascia)
+* [Fibromyalgia](https://en.wikipedia.org/wiki/Fibromyalgia)
+* [Gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
+* [Hyaluronic acid](https://en.wikipedia.org/wiki/Hyaluronic_acid)
+* ["Inside the Interstitium: the Human Body's Hidden Pathways"](https://www.nytimes.com/interactive/2026/05/11/magazine/interstitium-anatomy-acupuncture-medicine.html), May 11, 2026
+* [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
+  * [Chakra](https://en.wikipedia.org/wiki/Chakra)
+  * [Meridian](https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine))
+* [Lymphatic vessel](https://en.wikipedia.org/wiki/Lymphatic_vessel)
+* [Mesoglea](https://en.wikipedia.org/wiki/Mesoglea)
+* [Submucosa](https://en.wikipedia.org/wiki/Submucosa)
 ## Animals
 * [Anaconda](https://en.wikipedia.org/wiki/Anaconda) | [Python](https://en.wikipedia.org/wiki/Python_(genus))
 * [Condor](https://en.wikipedia.org/wiki/Condor) | [Eagle](https://en.wikipedia.org/wiki/Eagle)
