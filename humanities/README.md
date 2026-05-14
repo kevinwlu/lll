@@ -200,3 +200,7 @@
   * [Jean Francois de la Rocque de Roberval](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Roberval)
   * [New France](https://en.wikipedia.org/wiki/New_France)
   * [Basque](https://en.wikipedia.org/wiki/Basques)
+## Poetry
+* [Poetry](https://en.wikipedia.org/wiki/Poetry)
+* [*Instead of Depression*](https://poets.org/poem/instead-depression)
+  * [Andrea Gibson](https://en.wikipedia.org/wiki/Andrea_Gibson) 1975&mdash;2025
