@@ -119,6 +119,8 @@
 * [Bridge of Sighs](https://en.wikipedia.org/wiki/Bridge_of_Sighs)
   * [Bridge of Sighs, Cambridge](https://en.wikipedia.org/wiki/Bridge_of_Sighs,_Cambridge)
   * [Bridge of Sighs, Oxford](https://en.wikipedia.org/wiki/Bridge_of_Sighs,_Oxford)
+* [Danjiang Bridge](https://en.wikipedia.org/wiki/Danjiang_Bridge)
+  * [Zaha Hadid](https://en.wikipedia.org/wiki/Zaha_Hadid) 1950&mdash;2016
 * [Golestan Palace](https://en.wikipedia.org/wiki/Golestan_Palace)
 * [Passive house](https://en.wikipedia.org/wiki/Passive_house)
 * [Preah Vihear](https://en.wikipedia.org/wiki/Preah_Vihear)
