@@ -121,6 +121,7 @@
   * [Walden](https://www.waldengame.com/educators)
   * [What Does Too Much Screen Time Do to Children's Brains](https://www.nyp.org/healthmatters/what-does-too-much-screen-time-do-to-childrens-brains), August 24, 2023
   * [Why Common Core failed](https://www.brookings.edu/articles/why-common-core-failed/), March 18, 2021
+* [What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html), May 17, 2026
 ## AI and Law
 * [Liability for Harms from AI Systems: The Application of U.S. Tort Law and Liability to Harms from Artificial Intelligence Systems](https://www.rand.org/pubs/research_reports/RRA3243-4.html), November 20, 2024
 * [Common law](https://en.wikipedia.org/wiki/Common_law)
