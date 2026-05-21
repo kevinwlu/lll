@@ -64,9 +64,9 @@
   [Asilomar Conference on Beneficial AI](https://en.wikipedia.org/wiki/Asilomar_Conference_on_Beneficial_AI), January 5-8, 2017\
   [A. Conn](https://futureoflife.org/person/ariel-conn/), "[Research for Beneficial Artificial Intelligence](https://futureoflife.org/recent-news/research-for-beneficial-artificial-intelligence/)," December 27, 2017\
   [M. Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark), *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017
-  > The fear of machines turning evil is another [red herring](https://en.wikipedia.org/wiki/Red_herring). The real worry isn’t malevolence, but competence.\
-  > A superintelligent AI is by definition very good at attaining its goals, whatever they may be, so we need to ensure that its goals are aligned with ours.\
-  > We shouldn’t passively ask "what will happen?" as if the future is predetermined (or undirected), but instead ask what we want to happen and then try to create that future (i.e., beneficial intelligence).
+  * The fear of machines turning evil is another [red herring](https://en.wikipedia.org/wiki/Red_herring). The real worry isn’t malevolence, but competence.\
+  * A superintelligent AI is by definition very good at attaining its goals, whatever they may be, so we need to ensure that its goals are aligned with ours.\
+  * We shouldn’t passively ask "what will happen?" as if the future is predetermined (or undirected), but instead ask what we want to happen and then try to create that future (i.e., beneficial intelligence).
   
   | Life | Stage | Hardware | Software |
   | :---: | :---: | :---: | :---: |
@@ -179,6 +179,7 @@
   * [Suno AI](https://en.wikipedia.org/wiki/Suno_AI)
   * [Udio](https://en.wikipedia.org/wiki/Udio)
 * [Artificial intelligence art](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
+* [Principles for Using Generative A․I․ in The Times’s Newsroom](https://www.nytco.com/press/principles-for-using-generative-a%e2%80%a4i%e2%80%a4-in-the-timess-newsroom/), May 9, 2024
 ## AI in AV
 * [15.ai](https://en.wikipedia.org/wiki/15.ai)
 * [Audio deepfake](https://en.wikipedia.org/wiki/Audio_deepfake)
