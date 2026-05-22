@@ -22,6 +22,10 @@
 * [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) or [law of parsimony](https://www.merriam-webster.com/dictionary/law%20of%20parsimony)
 * [OODA loop](https://en.wikipedia.org/wiki/OODA_loop): observe, orient, decide, act
 * [PDCA](https://en.wikipedia.org/wiki/PDCA): plan, do, check, act
+* [round robin](https://en.wiktionary.org/wiki/round_robin)
+  * [Round-robin](https://en.wikipedia.org/wiki/Round-robin)
+  * [Round-robin scheduling](https://en.wikipedia.org/wiki/Round-robin_scheduling)
+  * [Round-robin tournament](https://en.wikipedia.org/wiki/Round-robin_tournament)
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
   * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
