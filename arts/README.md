@@ -113,6 +113,7 @@
     * [Jay Pritzker](https://en.wikipedia.org/wiki/Jay_Pritzker) 1922&mdash;1999
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
+* [Alhambra](https://en.wikipedia.org/wiki/Alhambra) in [Granada](https://en.wikipedia.org/wiki/Granada)
 * [Ambulatory](https://en.wikipedia.org/wiki/Ambulatory)
 * [Angkor Wat](https://en.wikipedia.org/wiki/Angkor_Wat)
 * [Brick](https://en.wikipedia.org/wiki/Brick)
