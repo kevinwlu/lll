@@ -21,6 +21,8 @@
 * [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
 ---
 * [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne) 1839&mdash;1906
+* [Auguste Rodin](https://en.wikipedia.org/wiki/Auguste_Rodin) 1840&mdash;1917
+  * [*The Thinker*](https://en.wikipedia.org/wiki/The_Thinker) 1904
 * [Louis Comfort Tiffany](https://en.wikipedia.org/wiki/Louis_Comfort_Tiffany) 1848&mdash;1933
 * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
   * [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
