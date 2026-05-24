@@ -98,6 +98,7 @@
   * [*La Califfa*](https://en.wikipedia.org/wiki/La_Califfa) 1970 and [*Gabriel's Oboe*](https://en.wikipedia.org/wiki/Gabriel%27s_Oboe) 1986 by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) 1928&mdash;2020
 * [*Somewhere in Time* (film)](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) 1980
   * [John Barry (composer)](https://en.wikipedia.org/wiki/John_Barry_(composer)) 1933&mdash;2011
+  * [*Rhapsody on a Theme of Paganini*](https://en.wikipedia.org/wiki/Rhapsody_on_a_Theme_of_Paganini)
 * [Remix](https://en.wikipedia.org/wiki/Remix)
 ---
 * [Fightin' Texas Aggie Band](https://en.wikipedia.org/wiki/Fightin'_Texas_Aggie_Band)
