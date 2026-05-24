@@ -86,10 +86,19 @@
 * [*Adagio for Strings*](https://en.wikipedia.org/wiki/Adagio_for_Strings) 1936 by [Samuel Barber](https://en.wikipedia.org/wiki/Samuel_Barber) 1910&mdash;1981
 * [Adagio in G minor](https://en.wikipedia.org/wiki/Adagio_in_G_minor) by [Tomaso Albinoni](https://en.wikipedia.org/wiki/Tomaso_Albinoni) 1671&mdash;1751, arranged by [Remo Giazotto](https://en.wikipedia.org/wiki/Remo_Giazotto) 1910&mdash;1998
   * [YouTube](https://www.youtube.com/watch?v=CQbI_sSV5G4) 2021 by Yo-Yo-Ma
+* [Historia de un Amor](https://es.wikipedia.org/wiki/Historia_de_un_amor) 1955
+* [Lara's Theme](https://en.wikipedia.org/wiki/Lara%27s_Theme)
+  * [*Doctor Zhivago* (film)](https://en.wikipedia.org/wiki/Doctor_Zhivago_(film)) 1965
+  * [Maurice Jarre](https://en.wikipedia.org/wiki/Maurice_Jarre) 1924&mdash;2009
+* [Love Theme from *Romeo and Juliet*](https://en.wikipedia.org/wiki/Love_Theme_from_Romeo_and_Juliet)
+  * [*Romeo and Juliet* (1968 film)](https://en.wikipedia.org/wiki/Romeo_and_Juliet_(1968_film))
+  * [Nino Rota](https://en.wikipedia.org/wiki/Nino_Rota) 1911&mdash;1979
+  * [Henry Mancini](https://en.wikipedia.org/wiki/Henry_Mancini) 1924&mdash;1994
 * [Andrea Giuffredi](https://www.youtube.com/watch?v=V_VPLLQIBEA), a master of [bel canto](https://en.wikipedia.org/wiki/Bel_canto) trumpet style
   * [*La Califfa*](https://en.wikipedia.org/wiki/La_Califfa) 1970 and [*Gabriel's Oboe*](https://en.wikipedia.org/wiki/Gabriel%27s_Oboe) 1986 by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) 1928&mdash;2020
+* [*Somewhere in Time* (film)](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) 1980
+  * [John Barry (composer)](https://en.wikipedia.org/wiki/John_Barry_(composer)) 1933&mdash;2011
 * [Remix](https://en.wikipedia.org/wiki/Remix)
-* [Historia de un Amor](https://es.wikipedia.org/wiki/Historia_de_un_amor) 1955
 ---
 * [Fightin' Texas Aggie Band](https://en.wikipedia.org/wiki/Fightin'_Texas_Aggie_Band)
 * [Top Secret Drum Corps](https://en.wikipedia.org/wiki/Top_Secret_Drum_Corps)
