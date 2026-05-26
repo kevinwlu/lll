@@ -99,6 +99,9 @@
 * [*Somewhere in Time* (film)](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) 1980
   * [John Barry (composer)](https://en.wikipedia.org/wiki/John_Barry_(composer)) 1933&mdash;2011
   * [*Rhapsody on a Theme of Paganini*](https://en.wikipedia.org/wiki/Rhapsody_on_a_Theme_of_Paganini)
+  * [Virtuoso](https://en.wikipedia.org/wiki/Virtuoso)
+  * [Sergei Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff) 1873&mdash;1943
+  * [Niccolò Paganini](https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini) 1782&mdash;1840
 * [Remix](https://en.wikipedia.org/wiki/Remix)
 ---
 * [Fightin' Texas Aggie Band](https://en.wikipedia.org/wiki/Fightin'_Texas_Aggie_Band)
