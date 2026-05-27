@@ -102,6 +102,7 @@
   * [Virtuoso](https://en.wikipedia.org/wiki/Virtuoso)
   * [Sergei Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff) 1873&mdash;1943
   * [Niccolò Paganini](https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini) 1782&mdash;1840
+  * [Inversion (music)](https://en.wikipedia.org/wiki/Inversion_(music))
 * [Remix](https://en.wikipedia.org/wiki/Remix)
 ---
 * [Fightin' Texas Aggie Band](https://en.wikipedia.org/wiki/Fightin'_Texas_Aggie_Band)
