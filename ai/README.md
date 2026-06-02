@@ -27,6 +27,7 @@
   * [AI agent](https://en.wikipedia.org/wiki/AI_agent)
   * [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system) (MAS)
 * [Blended artificial intelligence](https://en.wikipedia.org/wiki/Blended_artificial_intelligence)
+* [Clanker](https://en.wikipedia.org/wiki/Clanker)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
