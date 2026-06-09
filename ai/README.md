@@ -97,7 +97,7 @@
   * [California Community Colleges](https://playlab-education.github.io/ccc-landing/) (CCC)
 * [A.I. Companies Are Eating Higher Education](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html) by [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/), February 12, 2026
   * [Cluely](https://en.wikipedia.org/wiki/Cluely)
-* [Future of Higher Ed ](https://www.fohe.org/) (FOHE)
+* [Future of Higher Ed](https://www.fohe.org/) (FOHE)
 * [Teaching With AI](https://www.youtube.com/watch?v=1PbLbwkJFrM) by [Carlo Lipizzi](https://www.stevens.edu/profile/clipizzi), February 12, 2026
 * [You Can’t Game Your Way to a Real Education](https://www.nytimes.com/2026/04/19/opinion/schools-edtech-laptops-games-learning.html), April 19, 2026
   * [10 billion participants in 10 years](https://kahoot.com/blog/2023/11/09/kahoot-reaches-10-billion/), November 9, 2023
@@ -123,6 +123,14 @@
   * [What Does Too Much Screen Time Do to Children's Brains](https://www.nyp.org/healthmatters/what-does-too-much-screen-time-do-to-childrens-brains), August 24, 2023
   * [Why Common Core failed](https://www.brookings.edu/articles/why-common-core-failed/), March 18, 2021
 * [What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html), May 17, 2026
+* [The High Cost of Silent Classrooms](https://www.nytimes.com/2026/06/08/opinion/ai-classroom-silence-reform.html), June 8, 2026
+  * [End the Phone-Based Childhood Now](https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/677722/), March 13, 2024
+  * [Landmark study shows that ‘transcendent’ thinking may grow teens’ brains over time](https://rossier.usc.edu/news-insights/news/2024/march/landmark-study-shows-transcendent-thinking-may-grow-teens-brains-over-time), March 15, 2024
+  * [Bank Street College of Education | Developmental-interaction approach](https://www.bankstreet.edu/about-bank-street/our-approach/)
+  * [Coalition of Organizations and Experts Calls for Pause on Generative AI in PreK-12 schools](https://fairplayforkids.org/wp-content/uploads/2026/04/Coalition-of-Organizations-and-Experts-Calls-for-Pause-on-Generative-AI-in-PreK-12-schools-1.pdf), April 16, 2026
+  * [Discover actionable competencies that work with your standards](https://xqcompetencies.xqsuperschool.org/?utm_source=xqsuperschool_xqcompetencies_page&selection=)
+  * [New York Performance Standards Consortium](https://www.performanceassessment.org/)
+    * [Performance Assessment](https://www.performanceassessment.org/our-impact-22)
 ## AI and Law
 * [Liability for Harms from AI Systems: The Application of U.S. Tort Law and Liability to Harms from Artificial Intelligence Systems](https://www.rand.org/pubs/research_reports/RRA3243-4.html), November 20, 2024
 * [Common law](https://en.wikipedia.org/wiki/Common_law)
