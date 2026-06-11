@@ -26,6 +26,7 @@
   * [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/), April 9, 2025
   * [AI agent](https://en.wikipedia.org/wiki/AI_agent)
   * [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system) (MAS)
+  * [Multi-agent evaluation system](https://github.com/knijesh) by Kanjinghat Nijesh
 * [Blended artificial intelligence](https://en.wikipedia.org/wiki/Blended_artificial_intelligence)
 * [Clanker](https://en.wikipedia.org/wiki/Clanker)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
