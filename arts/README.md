@@ -38,6 +38,7 @@
 * [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) 1881&mdash;1973
 * [Jean Cocteau](https://en.wikipedia.org/wiki/Jean_Cocteau) 1889&mdash;1963
 * [Man Ray](https://en.wikipedia.org/wiki/Man_Ray) 1890&mdash;1976
+* [David Hockney](https://en.wikipedia.org/wiki/David_Hockney) 1937&mdash;2026
 * [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki)
   * [List of works by Hayao Miyazaki](https://en.wikipedia.org/wiki/List_of_works_by_Hayao_Miyazaki)
   * [*My Neighbor Totoro*](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) 1988
