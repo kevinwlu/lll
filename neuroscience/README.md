@@ -32,6 +32,7 @@
   * [Endorphins](https://en.wikipedia.org/wiki/Endorphins)
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
+* [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
 * [Learning disability](https://en.wikipedia.org/wiki/Learning_disability)
   * [Dyscalculia](https://en.wikipedia.org/wiki/Dyscalculia)
@@ -44,4 +45,5 @@
   * [Poggendorff illusion](https://en.wikipedia.org/wiki/Poggendorff_illusion)
   * [Johann Christian Poggendorff](https://en.wikipedia.org/wiki/Johann_Christian_Poggendorff) 1796&mdash;1877
 * [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+* [Precuneus](https://en.wikipedia.org/wiki/Precuneus)
 * [Helen Fisher (anthropologist)](https://en.wikipedia.org/wiki/Helen_Fisher_(anthropologist)) 1945&mdash;2024
