@@ -1,5 +1,4 @@
 # Artificial Intelligence
-##
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
 * [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/), February 8, 2026
@@ -54,6 +53,7 @@
   * [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) (Completely Automated Public Turing test to tell Computers and Humans Apart)
 * [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
 * [Office of Science and Technology Policy](https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy) (OSTP), [*Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People*](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf), October 2022
+##
 * [K. Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee), "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
   | Human-AI coexistence | Creativity not needed | Creativity needed |
