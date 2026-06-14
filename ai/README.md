@@ -246,6 +246,7 @@
   * [Claude Sonnet](https://www.anthropic.com/claude/sonnet)
   * [Glasswing](https://www.anthropic.com/glasswing)
   * [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/), April 7, 2026
+  * [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), June 9, 2026
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition AI](https://en.wikipedia.org/wiki/Cognition_AI)
   * [Devin AI](https://en.wikipedia.org/wiki/Devin_AI)
