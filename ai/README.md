@@ -1,4 +1,5 @@
 # Artificial Intelligence
+##
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
 * [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/), February 8, 2026
