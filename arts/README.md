@@ -111,6 +111,7 @@
   * [Niccolò Paganini](https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini) 1782&mdash;1840
   * [Inversion (music)](https://en.wikipedia.org/wiki/Inversion_(music))
 * [Remix](https://en.wikipedia.org/wiki/Remix)
+* [*Sunday in the Park with George*](https://en.wikipedia.org/wiki/Sunday_in_the_Park_with_George)
 ---
 * [Fightin' Texas Aggie Band](https://en.wikipedia.org/wiki/Fightin'_Texas_Aggie_Band)
 * [Top Secret Drum Corps](https://en.wikipedia.org/wiki/Top_Secret_Drum_Corps)
