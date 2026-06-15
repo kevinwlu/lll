@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-![AI](/lesson8/AI.jpg)
+![AI](/ai/AI.jpg)
 
 Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_generativeai-ml-llm-activity-7193399193988718593-VwcL)
 
