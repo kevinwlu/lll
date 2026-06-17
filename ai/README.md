@@ -261,6 +261,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Windsurf](https://windsurf.com/)
 * [Contextual AI](https://contextual.ai/)
   * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
+* [Cursor (company)](https://en.wikipedia.org/wiki/Cursor_(company))
 * [Eleos AI Research](https://eleosai.org/)
   * [Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986), November 4, 2024
 * [ENERZAi](https://enerzai.com/)
