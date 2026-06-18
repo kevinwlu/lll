@@ -11,3 +11,13 @@
 * [Albert Bandura](https://en.wikipedia.org/wiki/Albert_Bandura) 1925&mdash;2021
   * [Social cognitive theory](https://en.wikipedia.org/wiki/Social_cognitive_theory)
   * [Social learning theory](https://en.wikipedia.org/wiki/Social_learning_theory)
+## Remote Work
+* [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671), June 4, 2026
+* [The Power of Proximity to Coworkers](https://www.nber.org/system/files/working_papers/w31880/w31880.pdf), November 2023, Revised June 2026
+  * [National Bureau of Economic Research](https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research) (NBER)
+* [Social Substitution? Time Use Responses to Increased Workplace Isolation](https://docs.iza.org/dp18112.pdf)
+  * [IZA Institute of Labor Economics](https://en.wikipedia.org/wiki/IZA_Institute_of_Labor_Economics)
+* [The Social Workplace: Social Capital, Human Dignity, and Work in America](https://www.americansurveycenter.org/research/the-social-workplace-social-capital-human-dignity-and-work-in-america/), October 25, 2022
+* [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4), September 9, 2021
+* [Workplace Knowledge Flows](https://nathanseegert.com/papers/SandvikSaoumaSeegertStanton_WorkplaceKnowledgeFlows.pdf), April 17, 2020
+* [Mistakenly Seeking Solitude](https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley&Schroeder2014.pdf), July 14, 2014
