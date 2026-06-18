@@ -17,6 +17,7 @@
   * [National Bureau of Economic Research](https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research) (NBER)
 * [Social Substitution? Time Use Responses to Increased Workplace Isolation](https://docs.iza.org/dp18112.pdf), September 2025
   * [IZA Institute of Labor Economics](https://en.wikipedia.org/wiki/IZA_Institute_of_Labor_Economics)
+  * [Difference in differences](https://en.wikipedia.org/wiki/Difference_in_differences)
 * [The Social Workplace: Social Capital, Human Dignity, and Work in America](https://www.americansurveycenter.org/research/the-social-workplace-social-capital-human-dignity-and-work-in-america/), October 25, 2022
 * [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4), September 9, 2021
 * [Workplace Knowledge Flows](https://nathanseegert.com/papers/SandvikSaoumaSeegertStanton_WorkplaceKnowledgeFlows.pdf), April 17, 2020
