@@ -56,6 +56,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) (Completely Automated Public Turing test to tell Computers and Humans Apart)
 * [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
 * [Office of Science and Technology Policy](https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy) (OSTP), [*Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People*](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf), October 2022
+* [NJ AI Hub](https://njaihub.org/)
 ##
 * [K. Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee), "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
