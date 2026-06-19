@@ -23,3 +23,5 @@
 * [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4), September 9, 2021
 * [Workplace Knowledge Flows](https://nathanseegert.com/papers/SandvikSaoumaSeegertStanton_WorkplaceKnowledgeFlows.pdf), April 17, 2020
 * [Mistakenly Seeking Solitude](https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley&Schroeder2014.pdf), July 14, 2014
+* [*Bowling Alone: The Collapse and Revival of American Community*](https://en.wikipedia.org/wiki/Bowling_Alone) 2000
+  * [Robert D. Putnam](https://en.wikipedia.org/wiki/Robert_D._Putnam)
