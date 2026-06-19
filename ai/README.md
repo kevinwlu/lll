@@ -216,6 +216,10 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Synthesys X](https://synthesys.io/x/)
 * [Vosaic](https://vosaic.com/) AI-powered feedback and analysis
 * [Wu Dao](https://en.wikipedia.org/wiki/Wu_Dao)
+## AI Infrastructure
+* [Atomera](https://atomera.com/)
+* [Lotus Microsystems](https://www.lotus-microsystems.com/)
+* [Oriole Networks](https://oriolenetworks.com/)
 ## Applied AI
 * [Emerging Technologies Initiatives](https://www.comsoc.org/about/committees/emerging-technologies-initiatives) (ETI)
 * [GenAINet](https://genainet.committees.comsoc.org/)
