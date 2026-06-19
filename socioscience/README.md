@@ -24,4 +24,8 @@
 * [Workplace Knowledge Flows](https://nathanseegert.com/papers/SandvikSaoumaSeegertStanton_WorkplaceKnowledgeFlows.pdf), April 17, 2020
 * [Mistakenly Seeking Solitude](https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley&Schroeder2014.pdf), July 14, 2014
 * [*Bowling Alone: The Collapse and Revival of American Community*](https://en.wikipedia.org/wiki/Bowling_Alone) 2000
+  * [Website](http://bowlingalone.com/)
   * [Robert D. Putnam](https://en.wikipedia.org/wiki/Robert_D._Putnam)
+  * [Social capital](https://en.wikipedia.org/wiki/Social_capital)
+* [*Better Together: Restoring the American Community*](https://en.wikipedia.org/wiki/Better_Together:_Restoring_the_American_Community) 2003
+  * [Saguaro](https://en.wikipedia.org/wiki/Saguaro)
