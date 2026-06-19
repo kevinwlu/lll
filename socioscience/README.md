@@ -1,4 +1,5 @@
 # Social Sciences
+* [Social science](https://en.wikipedia.org/wiki/Social_science)
 * [*Cordon sanitaire* (politics)](https://en.wikipedia.org/wiki/Cordon_sanitaire_(politics))
 * [Perpetual foreigner](https://en.wikipedia.org/wiki/Perpetual_foreigner)
 * [Sentō](https://en.wikipedia.org/wiki/Sent%C5%8D)
