@@ -96,6 +96,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [AI in Education: Approaches and Strategies for Educators](https://www.coursera.org/articles/ai-in-education), January 23, 2026
 * [ASU Atomic](https://atomic.asu.edu/)
 * [Brain in Overdrive: Ruminating Questions on The Future of Science Education](https://woolee.substack.com/p/brain-in-overdrive), March 22, 2026
+* [Can—and Should—Honor Codes Survive in the AI Age?](https://www.insidehighered.com/news/faculty/learning-assessment/2026/06/22/can-and-should-honor-codes-survive-ai-age), June 22, 2026
 * [Consortium for Generative AI in CS Education](https://www.teachcswithai.org/)
 * [MLCommons](https://mlcommons.org/) an Open AI Engineering Consortium
   * [GitHub repository](https://github.com/mlcommons)
