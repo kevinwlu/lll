@@ -15,11 +15,11 @@
 ## Remote Work
 * [Why Working from Home Will Stick](https://www.nber.org/system/files/working_papers/w28731/w28731.pdf), April 2021
   * [National Bureau of Economic Research](https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research) (NBER)
+    * [Survey of Working Arrangements and Attitudes](https://wfhresearch.com/wp-content/uploads/2024/03/WFHResearch_updates_March2024.pdf) (SWAA), March 5, 2024
 * [Natalia Emanuel](https://www.nataliaemanuel.com/)
 * [Emma Harrington](https://sites.google.com/view/eharrington)
   * [*In Person: How Working Together Fuels Creativity, Productivity, and Growth*](https://www.penguinrandomhouse.com/books/795672/in-person-by-natalia-emanuel-phd-and-emma-harrington-phd/), October 13, 2026
   * [We Liked Remote Work. Then We Looked at the Data.](https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html), June 17, 2026
-  * [Survey of Working Arrangements and Attitudes](https://wfhresearch.com/wp-content/uploads/2024/03/WFHResearch_updates_March2024.pdf) (SWAA), March 5, 2024
   * [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671), June 4, 2026
   * [The Power of Proximity to Coworkers](https://www.nber.org/system/files/working_papers/w31880/w31880.pdf), November 2023, Revised June 2026
   * [Social Substitution? Time Use Responses to Increased Workplace Isolation](https://docs.iza.org/dp18112.pdf), September 2025
