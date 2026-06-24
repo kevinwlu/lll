@@ -13,6 +13,8 @@
   * [Social cognitive theory](https://en.wikipedia.org/wiki/Social_cognitive_theory)
   * [Social learning theory](https://en.wikipedia.org/wiki/Social_learning_theory)
 ## Remote Work
+* [Why Working from Home Will Stick](https://www.nber.org/system/files/working_papers/w28731/w28731.pdf), April 2021
+  * [National Bureau of Economic Research](https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research) (NBER)
 * [Natalia Emanuel](https://www.nataliaemanuel.com/)
 * [Emma Harrington](https://sites.google.com/view/eharrington)
   * [*In Person: How Working Together Fuels Creativity, Productivity, and Growth*](https://www.penguinrandomhouse.com/books/795672/in-person-by-natalia-emanuel-phd-and-emma-harrington-phd/), October 13, 2026
