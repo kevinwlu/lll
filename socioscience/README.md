@@ -21,20 +21,19 @@
   * [We Liked Remote Work. Then We Looked at the Data.](https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html), June 17, 2026
   * [Survey of Working Arrangements and Attitudes](https://wfhresearch.com/wp-content/uploads/2024/03/WFHResearch_updates_March2024.pdf) (SWAA), March 5, 2024
   * [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671), June 4, 2026
-* [The Power of Proximity to Coworkers](https://www.nber.org/system/files/working_papers/w31880/w31880.pdf), November 2023, Revised June 2026
-  * [National Bureau of Economic Research](https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research) (NBER)
-* [Social Substitution? Time Use Responses to Increased Workplace Isolation](https://docs.iza.org/dp18112.pdf), September 2025
+  * [The Power of Proximity to Coworkers](https://www.nber.org/system/files/working_papers/w31880/w31880.pdf), November 2023, Revised June 2026
+  * [Social Substitution? Time Use Responses to Increased Workplace Isolation](https://docs.iza.org/dp18112.pdf), September 2025
   * [IZA Institute of Labor Economics](https://en.wikipedia.org/wiki/IZA_Institute_of_Labor_Economics)
   * [Difference in differences](https://en.wikipedia.org/wiki/Difference_in_differences)
-* [The Social Workplace: Social Capital, Human Dignity, and Work in America](https://www.americansurveycenter.org/research/the-social-workplace-social-capital-human-dignity-and-work-in-america/), October 25, 2022
-* [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4), September 9, 2021
-* [Workplace Knowledge Flows](https://nathanseegert.com/papers/SandvikSaoumaSeegertStanton_WorkplaceKnowledgeFlows.pdf), April 17, 2020
-* [Mistakenly Seeking Solitude](https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley&Schroeder2014.pdf), July 14, 2014
-* [*Bowling Alone: The Collapse and Revival of American Community*](https://en.wikipedia.org/wiki/Bowling_Alone) 2000
+  * [The Social Workplace: Social Capital, Human Dignity, and Work in America](https://www.americansurveycenter.org/research/the-social-workplace-social-capital-human-dignity-and-work-in-america/), October 25, 2022
+  * [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4), September 9, 2021
+  * [Workplace Knowledge Flows](https://nathanseegert.com/papers/SandvikSaoumaSeegertStanton_WorkplaceKnowledgeFlows.pdf), April 17, 2020
+  * [Mistakenly Seeking Solitude](https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley&Schroeder2014.pdf), July 14, 2014
+* [Robert D. Putnam](https://en.wikipedia.org/wiki/Robert_D._Putnam)
+  * [*Bowling Alone: The Collapse and Revival of American Community*](https://en.wikipedia.org/wiki/Bowling_Alone) 2000
   * [Website](http://bowlingalone.com/)
-  * [Robert D. Putnam](https://en.wikipedia.org/wiki/Robert_D._Putnam)
   * [Social capital](https://en.wikipedia.org/wiki/Social_capital)
-* [*Better Together: Restoring the American Community*](https://en.wikipedia.org/wiki/Better_Together:_Restoring_the_American_Community) 2003
+  * [*Better Together: Restoring the American Community*](https://en.wikipedia.org/wiki/Better_Together:_Restoring_the_American_Community) 2003
   * [Saguaro](https://en.wikipedia.org/wiki/Saguaro)
 * [Adam Grant](https://en.wikipedia.org/wiki/Adam_Grant)
   * [The Secret Reason Bosses Want Everyone Back in the Office, Every Day of the Week](https://www.nytimes.com/2026/06/22/opinion/office-work-wfh-bosses.html), June 22, 2026
