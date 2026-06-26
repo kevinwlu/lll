@@ -184,6 +184,11 @@
   * [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) by [Wacław Sierpiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski) 1882&mdash;1969
 * [*Contact*](https://en.wikipedia.org/wiki/Contact_(novel)) 1985 by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge) 1944&mdash;2024
+* [*The Four Agreements: A Practical Guide to Personal Freedom*](https://en.wikipedia.org/wiki/The_Four_Agreements) 1997 by [Don Miguel Ruiz](https://en.wikipedia.org/wiki/Don_Miguel_Ruiz) based on [Toltec](https://en.wikipedia.org/wiki/Toltec) teachings
+  * "Be impeccable with your word"
+  * "Do not take anything personally"
+  * "Do not make assumptions"
+  * "Always do your best"
 * [*The Three-Body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 2006&ndash;2008 by [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)
   * [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem)
   * [Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory)
