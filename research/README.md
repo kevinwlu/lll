@@ -29,6 +29,7 @@
 * [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation)
 * [MIT URTC](https://urtc.mit.edu/) Undergraduate Research Technology Conference
 * [Bond graph](https://en.wikipedia.org/wiki/Bond_graph) by [Henry Paynter](https://en.wikipedia.org/wiki/Henry_Paynter) 1923&mdash;2002
+* [Santa Fe Institute](https://en.wikipedia.org/wiki/Santa_Fe_Institute) (SFI)
 ---
 * [Are ideas getting harder to find?](https://www.nber.org/system/files/working_papers/w23782/w23782.pdf) 2017
 * [Combinations of technology in US patents, 1926–2009: a weakening base for future innovation?](https://www.tandfonline.com/doi/full/10.1080/10438599.2017.1410007) 2017
