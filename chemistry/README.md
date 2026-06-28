@@ -31,3 +31,5 @@
 * [Sodium bicarbonate](https://en.wikipedia.org/wiki/Sodium_bicarbonate) commonly known as baking soda
 * [Sodium thiosulfate](https://en.wikipedia.org/wiki/Sodium_thiosulfate)
 * [Superfluidity](https://en.wikipedia.org/wiki/Superfluidity)
+* [Tungsten](https://en.wikipedia.org/wiki/Tungsten)
+  * [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan)
