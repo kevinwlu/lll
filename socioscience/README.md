@@ -13,11 +13,11 @@
   * [Social cognitive theory](https://en.wikipedia.org/wiki/Social_cognitive_theory)
   * [Social learning theory](https://en.wikipedia.org/wiki/Social_learning_theory)
 ## Remote Work
-* [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
-* A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 * [Why Working from Home Will Stick](https://www.nber.org/system/files/working_papers/w28731/w28731.pdf), April 2021
   * [National Bureau of Economic Research](https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research) (NBER)
-    * [Survey of Working Arrangements and Attitudes](https://wfhresearch.com/wp-content/uploads/2024/03/WFHResearch_updates_March2024.pdf) (SWAA), March 5, 2024
+  * [Survey of Working Arrangements and Attitudes](https://wfhresearch.com/wp-content/uploads/2024/03/WFHResearch_updates_March2024.pdf) (SWAA), March 5, 2024
+* A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698) June 9, 2022
+* [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment,"](https://www.nber.org/papers/w30662) November 2022
 * [Natalia Emanuel](https://www.nataliaemanuel.com/)
 * [Emma Harrington](https://sites.google.com/view/eharrington)
   * [*In Person: How Working Together Fuels Creativity, Productivity, and Growth*](https://www.penguinrandomhouse.com/books/795672/in-person-by-natalia-emanuel-phd-and-emma-harrington-phd/), October 13, 2026
