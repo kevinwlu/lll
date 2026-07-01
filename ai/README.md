@@ -414,6 +414,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
 * [SambaNova Systems](https://sambanova.ai/)
   * [Kunle Olukotun](https://en.wikipedia.org/wiki/Kunle_Olukotun) 
+* [Scholera](https://www.scholera-inc.com/)
 * [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
 * [Technology Innovation Institute](https://en.wikipedia.org/wiki/Technology_Innovation_Institute) (TII)
   * [Falcon Mamba 7B](https://falconllm.tii.ae/tii-releases-first-sslm-with-falcon-mamba-7b.html)
