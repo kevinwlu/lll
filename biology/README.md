@@ -4,6 +4,8 @@
 * [Aesculus glabra](https://en.wikipedia.org/wiki/Aesculus_glabra) as known as buckeye
 * [Areca catechu](https://en.wikipedia.org/wiki/Areca_catechu) 
 * [Areca nut](https://en.wikipedia.org/wiki/Areca_nut)
+* [Artificial cell](https://en.wikipedia.org/wiki/Artificial_cell)
+  * [SpudCell](https://en.wikipedia.org/wiki/SpudCell)
 * [Astrocyte](https://en.wikipedia.org/wiki/Astrocyte)
 * [Biome](https://en.wikipedia.org/wiki/Biome)
   * [Fauna](https://en.wikipedia.org/wiki/Fauna)
