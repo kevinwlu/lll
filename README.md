@@ -16,6 +16,7 @@ Make lifelong learning an everyday habit
 * [Learning community](https://en.wikipedia.org/wiki/Learning_community)
   * [Vincent Tinto](https://en.wikipedia.org/wiki/Vince_Tinto)
   * [*From Educational Experiment to Standard Bearer: University 101 at the University of South Carolina*](https://uscpress.com/From-Educational-Experiment-to-Standard-Bearer), 2022
+* [Online learning](https://en.wikipedia.org/wiki/Online_learning)
 * [List of medieval universities](https://en.wikipedia.org/wiki/List_of_medieval_universities)
 * [List of oldest universities in continuous operation](https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation)
   * [Nalanda mahavihara](https://en.wikipedia.org/wiki/Nalanda_mahavihara)
