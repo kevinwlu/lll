@@ -208,9 +208,13 @@
   * [Basque](https://en.wikipedia.org/wiki/Basques)
 * [Booker Prize](https://en.wikipedia.org/wiki/Booker_Prize)
 ## Language
+* [Color term](https://en.wikipedia.org/wiki/Color_term)
 * [Diacritic](https://en.wikipedia.org/wiki/Diacritic)
 * [Glyph](https://en.wikipedia.org/wiki/Glyph)
 * [Linguistics](https://en.wikipedia.org/wiki/Linguistics)
+* [Onomatopoeia](https://en.wikipedia.org/wiki/Onomatopoeia)
+  * [List of animal sounds](https://en.wikipedia.org/wiki/List_of_animal_sounds)
+  * [List of onomatopoeias](https://en.wikipedia.org/wiki/List_of_onomatopoeias)
 ## Poetry
 * [Poetry](https://en.wikipedia.org/wiki/Poetry)
 * [*Instead of Depression*](https://poets.org/poem/instead-depression)
