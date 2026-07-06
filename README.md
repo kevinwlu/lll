@@ -18,6 +18,7 @@ Make lifelong learning an everyday habit
   * [*From Educational Experiment to Standard Bearer: University 101 at the University of South Carolina*](https://uscpress.com/From-Educational-Experiment-to-Standard-Bearer), 2022
 * [Learning for Life](https://en.wikipedia.org/wiki/Learning_for_Life) (LFL)
   * [Exploring](https://www.exploring.org/)
+    * [Organizations](https://www.exploring.org/organizations/)
   * [Scouting America](https://en.wikipedia.org/wiki/Scouting_America)
   * [Girl Scouts of the USA](https://en.wikipedia.org/wiki/Girl_Scouts_of_the_USA)
 * [Online learning](https://en.wikipedia.org/wiki/Online_learning)
