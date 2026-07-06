@@ -14,6 +14,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Flock Safety](https://en.wikipedia.org/wiki/Flock_Safety)
 * [Where Is A.I. Taking Us?](https://www.nytimes.com/interactive/2026/02/02/opinion/ai-future-leading-thinkers-survey.html), February 2, 2026
 * [DuckAI](https://duck-ai-stevens.github.io/)
+  * [Duck.ai](https://duck.ai/) by [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 * [Regulation of artificial intelligence](https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence)
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
