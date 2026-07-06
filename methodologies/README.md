@@ -34,6 +34,7 @@
   * [DMAIC](https://en.wikipedia.org/wiki/DMAIC): define, measure, analyze, improve and control
 * [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions): socialization, externization, combination, internalization
 * [Slippery slope](https://en.wikipedia.org/wiki/Slippery_slope)
+* [Spoke–hub distribution paradigm](https://en.wikipedia.org/wiki/Spoke%E2%80%93hub_distribution_paradigm)
 * [State of the art](https://en.wikipedia.org/wiki/State_of_the_art) (SOTA)
 * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
