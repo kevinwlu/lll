@@ -7,6 +7,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
 * [Four Species of AI](https://www.linkedin.com/pulse/four-species-ai-geoffrey-moore-zjuyc/), February 26, 2026
   * [Geoffrey Moore](https://en.wikipedia.org/wiki/Geoffrey_Moore)
+  * [Flipping the 80/20 rule in the Era of AI](https://engage.ieee.org/rs/756-GPH-899/images/IEEE-Industry-Newsletter-June-2026.html), June 2026
 * [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/), February 8, 2026
   * [Facial Recognition, a Lost-Dog Finder, and 3 More Big Announcements From Amazon’s Fall Event](https://www.nytimes.com/wirecutter/reviews/amazon-fall-event-recap-2025/), September 30, 2025 
   * [Using Retina Tuning](https://ring.com/support/articles/wfw30/using-retinal-tuning)
