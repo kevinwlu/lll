@@ -345,6 +345,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Ray-Ban](https://en.wikipedia.org/wiki/Ray-Ban)
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
     * [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
+    * ["Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones"](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)
   * [Project Aria](https://www.projectaria.com/)
   * [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) (MSL), June 30, 2025
     * [Alexandr Wang](https://en.wikipedia.org/wiki/Alexandr_Wang)
