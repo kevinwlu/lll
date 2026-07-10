@@ -29,6 +29,8 @@
   * [Ostracism](https://en.wikipedia.org/wiki/Ostracism)
 * [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BCE
   * [The Project Gutenberg eBook 48649](https://www.gutenberg.org/ebooks/48649)
+* [*Bardo Thodol*](https://en.wikipedia.org/wiki/Bardo_Thodol) 8th century
+  * [Padmasambhava](https://en.wikipedia.org/wiki/Padmasambhava)
 * [*Egil's Saga*](https://en.wikipedia.org/wiki/Egil%27s_Saga) 850&mdash;1000
   * [Egill Skallagrímsson](https://en.wikipedia.org/wiki/Egill_Skallagr%C3%ADmsson) 904&mdash;995
   * [Icelandic language](https://en.wikipedia.org/wiki/Icelandic_language)
