@@ -113,6 +113,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [GitHub repository](https://github.com/mlcommons)
 * [Playlab](https://www.playlab.ai/)
   * [California Community Colleges](https://playlab-education.github.io/ccc-landing/) (CCC)
+* [RavenGrader](https://www.ravengrader.com/)
+* [Scholera](https://www.scholera-inc.com/)
 * [A.I. Companies Are Eating Higher Education](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html) by [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/), February 12, 2026
   * [Cluely](https://en.wikipedia.org/wiki/Cluely)
 * [Future of Higher Ed](https://www.fohe.org/) (FOHE)
