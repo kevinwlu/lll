@@ -74,6 +74,7 @@
 * [Photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
 * [Phyllanthus emblica](https://en.wikipedia.org/wiki/Phyllanthus_emblica)
   * [Strait of Malacca](https://en.wikipedia.org/wiki/Strait_of_Malacca)
+* [Psyllium](https://en.wikipedia.org/wiki/Psyllium)
 * [Regurgitation (digestion)](https://en.wikipedia.org/wiki/Regurgitation_(digestion))
 * [Right whale](https://en.wikipedia.org/wiki/Right_whale)
 * [Ruminant](https://en.wikipedia.org/wiki/Ruminant)
