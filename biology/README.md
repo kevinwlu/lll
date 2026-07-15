@@ -141,4 +141,9 @@
   * The Spanish word flamenco can refer to both a bird and a traditional Andalusian art form that includes music, dance, and singing.
   * There is some evidence that flamenco, a traditional Spanish art form, has roots in Rajasthan, India.
 * [Piping plover](https://en.wikipedia.org/wiki/Piping_plover)
+* [Puffin](https://en.wikipedia.org/wiki/Puffin)
 * [Swift (bird)](https://en.wikipedia.org/wiki/Swift_(bird))
+## Biomimetics
+* [Biomimetics](https://en.wikipedia.org/wiki/Biomimetics)
+* [New flapping robot swims and flies like a diving bird](https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709), July 9, 2026
+  * [YouTube](https://www.youtube.com/watch?v=9XJhrKpcBGI) 
