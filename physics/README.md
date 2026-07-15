@@ -10,3 +10,6 @@
   * [Wu experiment](https://en.wikipedia.org/wiki/Wu_experiment) 1956
 * [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 * [Schlieren](https://en.wikipedia.org/wiki/Schlieren)
+* [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) 1838&mdash;1916
+* [Feynman sprinkler](https://en.wikipedia.org/wiki/Feynman_sprinkler)
+  * ["Geometry controls momentum flux in the sprinkler problem"](https://www.pnas.org/doi/abs/10.1073/pnas.2537479123), July 13, 2026
