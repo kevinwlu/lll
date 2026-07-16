@@ -33,6 +33,8 @@
 * [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
 * [CREB](https://en.wikipedia.org/wiki/CREB) cAMP response element-binding protein
   * [Cyclic adenosine monophosphate](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate) (cAMP)
+* [*Cyclospora cayetanensis*](https://en.wikipedia.org/wiki/Cyclospora_cayetanensis)
+  * [Cyclosporiasis](https://en.wikipedia.org/wiki/Cyclosporiasis)
 * [*Dipteryx oleifera*](https://en.wikipedia.org/wiki/Dipteryx_oleifera)
   * [How some tropical trees benefit from being struck by lightning: evidence for *Dipteryx oleifera* and other large-statured trees](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.70062)
 * [Domain (biology)](https://en.wikipedia.org/wiki/Domain_(biology))
