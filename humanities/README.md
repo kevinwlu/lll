@@ -47,6 +47,9 @@
     * I met Ron St. Laurent at 6:03 AM, Tuesday, November 26, 2024
 * [*Divine Comedy*](https://en.wikipedia.org/wiki/Divine_Comedy) 1321 by [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri) 1265&mdash;1321
   * [The Project Gutenberg eBook 8800](https://www.gutenberg.org/ebooks/8800)
+  * [*Dante and Beatrice* (painting)](https://en.wikipedia.org/wiki/Dante_and_Beatrice_(painting)) 1883
+  * [Beatrice Portinari](https://en.wikipedia.org/wiki/Beatrice_Portinari) 1265&mdash;1290
+  * [Limerence](https://en.wikipedia.org/wiki/Limerence)
 * [*Divina proportione*](https://en.wikipedia.org/wiki/Divina_proportione) 1509 by [Luca Pacioli](https://en.wikipedia.org/wiki/Luca_Pacioli) 1447&mdash;1517
   * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
 * [*The Notebooks of Leonardo da Vinci*](https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Journals_and_notes) by [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) 1452&mdash;1519
