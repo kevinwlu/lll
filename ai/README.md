@@ -384,6 +384,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [GPT-5](https://en.wikipedia.org/wiki/GPT-5), August 7, 2025
     * [Introducing GPT-5](https://openai.com/index/introducing-gpt-5/), August 7, 2025
   * [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/), November 12, 2025
+  * [GPT-5.6](https://en.wikipedia.org/wiki/GPT-5.6), July 9, 2026
   * [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/), August 5, 2025
   * [Reasoning models](https://platform.openai.com/docs/guides/reasoning)
     * [Reasoning best practices](https://platform.openai.com/docs/guides/reasoning-best-practices)
