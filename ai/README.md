@@ -444,6 +444,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Baichuan](https://en.wikipedia.org/wiki/Baichuan)
   * [MiniMax Group](https://en.wikipedia.org/wiki/MiniMax_Group)
   * [Moonshot AI](https://en.wikipedia.org/wiki/Moonshot_AI)
+    * [Kimi (chatbot)](https://en.wikipedia.org/wiki/Kimi_(chatbot))
   * [StepFun](https://en.wikipedia.org/wiki/StepFun)
   * [Z.ai](https://en.wikipedia.org/wiki/Z.ai)
     * [Zhipu AI](https://www.zhipuai.cn/en/)
