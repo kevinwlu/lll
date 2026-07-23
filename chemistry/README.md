@@ -33,3 +33,5 @@
 * [Superfluidity](https://en.wikipedia.org/wiki/Superfluidity)
 * [Tungsten](https://en.wikipedia.org/wiki/Tungsten)
   * [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan)
+* [Wootz steel](https://en.wikipedia.org/wiki/Wootz_steel)
+  * [Damascus steel](https://en.wikipedia.org/wiki/Damascus_steel)
