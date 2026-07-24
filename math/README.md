@@ -3,6 +3,7 @@
   * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
   * [DARPA expMath: Exponentiating Mathematics](https://www.darpa.mil/research/programs/expmath-exponential-mathematics)
 * [Daily Challenge](https://www.youtube.com/@PoShenLoh) with [Po-Shen Loh](https://en.wikipedia.org/wiki/Po-Shen_Loh)
+---
 * [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) 570&mdash;495 BC
   * [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) 
 * [Euclid](https://en.wikipedia.org/wiki/Euclid) 300 BC
@@ -34,6 +35,7 @@
     * [Tesseract](https://en.wikipedia.org/wiki/Tesseract)
       * [Understanding 4D - The Tesseract](https://www.youtube.com/watch?v=iGO12Z5Lw8s) by [James Schloss](https://www.leioslabs.com/about) of [LeiosLabs](https://www.leioslabs.com/index)
   * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
+---
 * [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection_puzzle)
   * [Henry Dudeney](https://en.wikipedia.org/wiki/Henry_Dudeney) 1857&mdash;1930
   * [Jerry Slocum](https://en.wikipedia.org/wiki/Jerry_Slocum)
@@ -45,6 +47,15 @@
   * [Tiling puzzle](https://en.wikipedia.org/wiki/Tiling_puzzle)
 * [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal)
   * [Heisuke Hironaka](https://en.wikipedia.org/wiki/Heisuke_Hironaka) 1931&mdash;2026
+* [Boltzmann equation](https://en.wikipedia.org/wiki/Boltzmann_equation)
+  * [Yu Deng](https://en.wikipedia.org/wiki/Yu_Deng)
+* [Stretch_factor](https://en.wikipedia.org/wiki/Stretch_factor)
+  * [Mikhael Gromov](https://en.wikipedia.org/wiki/Mikhael_Gromov_(mathematician))
+  * [John Pardon](https://en.wikipedia.org/wiki/John_Pardon)
+* [André–Oort conjecture](https://en.wikipedia.org/wiki/Andr%C3%A9%E2%80%93Oort_conjecture)
+  * [Jacob Tsimerman](https://en.wikipedia.org/wiki/Jacob_Tsimerman)
+* [Kakeya_set](https://en.wikipedia.org/wiki/Kakeya_set)
+  * [Hong Wang](https://en.wikipedia.org/wiki/Hong_Wang)
 * [Gradarius](https://www.gradarius.com/)
 * [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman)
   * [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture)
