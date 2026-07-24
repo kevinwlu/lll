@@ -35,6 +35,9 @@
     * [Tesseract](https://en.wikipedia.org/wiki/Tesseract)
       * [Understanding 4D - The Tesseract](https://www.youtube.com/watch?v=iGO12Z5Lw8s) by [James Schloss](https://www.leioslabs.com/about) of [LeiosLabs](https://www.leioslabs.com/index)
   * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
+* [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
+  * [Twin_prime](https://en.wikipedia.org/wiki/Twin_prime)
+* [Yitang Zhang](https://en.wikipedia.org/wiki/Yitang_Zhang)
 ---
 * [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection_puzzle)
   * [Henry Dudeney](https://en.wikipedia.org/wiki/Henry_Dudeney) 1857&mdash;1930
@@ -62,5 +65,3 @@
 * [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad) (IMO)
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm) by [Narendra Karmarkar](https://en.wikipedia.org/wiki/Narendra_Karmarkar)
 * [Ricci flow](https://en.wikipedia.org/wiki/Ricci_flow)
-* [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
-* [Yitang Zhang](https://en.wikipedia.org/wiki/Yitang_Zhang)
