@@ -4,7 +4,7 @@
 * [Bonaire](https://en.wikipedia.org/wiki/Bonaire)
 * [Bonnieux](https://en.wikipedia.org/wiki/Bonnieux)
 ---
-* [Geology)](https://en.wikipedia.org/wiki/Geology)
+* [Geology](https://en.wikipedia.org/wiki/Geology)
 * [Continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 * [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
   * [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) 1880&mdash;1930
