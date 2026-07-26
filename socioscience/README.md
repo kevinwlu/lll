@@ -9,6 +9,8 @@
   * [Alexandra Rosati](https://lsa.umich.edu/psych/people/faculty/rosati.html)
 * ["Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choice, and Performance,"](https://www.sciencedirect.com/science/article/pii/S000187918471027X) Journal of Vocational Behavior, Volume 45, Issue 1, pp. 79-122, August 1994
   * [Social Cognitive Career Theory Lab](https://scctresearch.weebly.com/)
+* [Stanley Milgram](https://en.wikipedia.org/wiki/Stanley_Milgram) 1933&mdash;1984
+  * [Milgram experiment](https://en.wikipedia.org/wiki/Milgram_experiment) 
 * [Albert Bandura](https://en.wikipedia.org/wiki/Albert_Bandura) 1925&mdash;2021
   * [Social cognitive theory](https://en.wikipedia.org/wiki/Social_cognitive_theory)
   * [Social learning theory](https://en.wikipedia.org/wiki/Social_learning_theory)
