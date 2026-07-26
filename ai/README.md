@@ -62,7 +62,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/) (CASMI)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
 * [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)
-  * [Andrew_Yao](https://en.wikipedia.org/wiki/Andrew_Yao) 2000
+  * [Andrew Yao](https://en.wikipedia.org/wiki/Andrew_Yao) 2000
 * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
   * [Challenge–response authentication](https://en.wikipedia.org/wiki/Challenge%E2%80%93response_authentication)
   * [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) (Completely Automated Public Turing test to tell Computers and Humans Apart)
