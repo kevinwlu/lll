@@ -22,6 +22,8 @@
   * [William Clark](https://en.wikipedia.org/wiki/William_Clark) 1770&mdash;1838
   * [Sacagawea](https://en.wikipedia.org/wiki/Sacagawea) 1788&mdash;1812
   * [Toussaint Charbonneau](https://en.wikipedia.org/wiki/Toussaint_Charbonneau) 1767&mdash;1843
+---
+* [Chichen Itza](https://en.wikipedia.org/wiki/Chichen_Itza)
 * [History of the Incas](https://en.wikipedia.org/wiki/History_of_the_Incas)
   * [Aymaran languages](https://en.wikipedia.org/wiki/Aymaran_languages)
   * [Quechuan languages](https://en.wikipedia.org/wiki/Quechuan_languages)
