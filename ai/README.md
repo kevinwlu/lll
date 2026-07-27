@@ -156,6 +156,10 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Discover actionable competencies that work with your standards](https://xqcompetencies.xqsuperschool.org/?utm_source=xqsuperschool_xqcompetencies_page&selection=)
   * [New York Performance Standards Consortium](https://www.performanceassessment.org/)
     * [Performance Assessment](https://www.performanceassessment.org/our-impact-22)
+* *Reclaiming Purpose: The University in an AI World* by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president))
+  * [Matter and Space](https://mersk.co/work/matter-and-space)
+  * [George Siemens](https://en.wikipedia.org/wiki/George_Siemens)
+  * [Tanya Gamby](https://www.globalcitizenscircle.org/tanya-gamby-phd.html)
 ## AI and Law
 * [Liability for Harms from AI Systems: The Application of U.S. Tort Law and Liability to Harms from Artificial Intelligence Systems](https://www.rand.org/pubs/research_reports/RRA3243-4.html), November 20, 2024
 * [Common law](https://en.wikipedia.org/wiki/Common_law)
