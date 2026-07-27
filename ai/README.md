@@ -20,6 +20,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
   * [Human-Centered AI](https://hai.stanford.edu/) (HAI)
   * [Open-Weight Model](https://hai.stanford.edu/ai-definitions/what-is-an-open-weight-model)
+  * [Neural Net Weights](https://github.com/Open-Weights/Definition) (NNWs)
 * [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia)
 * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good)
   * [Website](https://ai4good.org/)
