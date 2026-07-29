@@ -57,6 +57,8 @@
   * [Gaspard-Gustave de Coriolis](https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis) 1792&mdash;1843
 * [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
 * [Decan](https://en.wikipedia.org/wiki/Decan)
+* [Fifth Giant](https://en.wikipedia.org/wiki/Fifth_Giant)
+* [Fifth planet (hypothetical)](https://en.wikipedia.org/wiki/Fifth_planet_(hypothetical))
 * [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram)
 * [International Astronomical Union](https://en.wikipedia.org/wiki/International_Astronomical_Union) (IAU)
 * [Julian day](https://en.wikipedia.org/wiki/Julian_day)
