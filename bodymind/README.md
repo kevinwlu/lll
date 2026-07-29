@@ -32,6 +32,11 @@
   * [Hermann Rorschach](https://en.wikipedia.org/wiki/Hermann_Rorschach) 1884&mdash;1922
 * [Eye–hand coordination](https://en.wikipedia.org/wiki/Eye%E2%80%93hand_coordination)
 * [Glabella](https://en.wikipedia.org/wiki/Glabella)
+* [Interval training](https://en.wikipedia.org/wiki/Interval_training)
+* [DPT vaccine](https://en.wikipedia.org/wiki/DPT_vaccine)
+---
+* [Kombucha](https://en.wikipedia.org/wiki/Kombucha)
+* [Kefir](https://en.wikipedia.org/wiki/Kefir)
 ---
 * [Subjectivity and objectivity](https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy))
   * [Placebo](https://en.wikipedia.org/wiki/Placebo)
