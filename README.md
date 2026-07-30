@@ -139,6 +139,7 @@ Make lifelong learning an everyday habit
 * [Per Scholas](https://en.wikipedia.org/wiki/Per_Scholas)
 * [Students 2 Science](https://www.students2science.org/) (S2S)
   * [Apollo Technology Center](https://www.students2science.org/apollo/)
+* [D2L](https://en.wikipedia.org/wiki/D2L)
 ---
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
 * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952, "Education is not preparation for life; education is life itself."
