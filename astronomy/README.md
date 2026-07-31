@@ -96,6 +96,7 @@
 * [Theory of everything](https://en.wikipedia.org/wiki/Theory_of_everything)
 * [White hole](https://en.wikipedia.org/wiki/White_hole)
 * [Wormhole](https://en.wikipedia.org/wiki/Wormhole)
+  * [Nathan Rosen](https://en.wikipedia.org/wiki/Nathan_Rosen) 1909&mdash;1995
 ---
 * [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
 * [Ephemeris](https://en.wikipedia.org/wiki/Ephemeris)
