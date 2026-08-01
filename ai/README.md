@@ -342,6 +342,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
   * [Pi](https://pi.ai/)
 * [Leonardo AI](https://leonardo.ai/)
+* [Leopold Aschenbrenner](https://en.wikipedia.org/wiki/Leopold_Aschenbrenner)
+  * [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/), June 2024
 * [Lila Sciences](https://www.lila.ai/)
 * [LMArena](https://blog.lmarena.ai/blog/)
   * [Chatbot Arena](https://lmarena.ai/)
