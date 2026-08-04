@@ -29,3 +29,5 @@
   * [Quechuan languages](https://en.wikipedia.org/wiki/Quechuan_languages)
   * [Quipu](https://en.wikipedia.org/wiki/Quipu)
 * [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
+---
+* [Sumer](https://en.wikipedia.org/wiki/Sumer) between the 5th and 4th millennium BC
