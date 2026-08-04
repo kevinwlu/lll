@@ -220,6 +220,7 @@
 * [Booker Prize](https://en.wikipedia.org/wiki/Booker_Prize)
 ## Language
 * [Color term](https://en.wikipedia.org/wiki/Color_term)
+* [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 * [Diacritic](https://en.wikipedia.org/wiki/Diacritic)
 * [Glyph](https://en.wikipedia.org/wiki/Glyph)
 * [Khitan language](https://en.wikipedia.org/wiki/Khitan_language)
