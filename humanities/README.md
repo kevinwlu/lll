@@ -139,6 +139,8 @@
   * [*Mathematics and the Imagination*](https://en.wikipedia.org/wiki/Mathematics_and_the_Imagination) 1940 by [Edward Kasner](https://en.wikipedia.org/wiki/Edward_Kasner) 1878&mdash;1955 and [James R. Newman](https://en.wikipedia.org/wiki/James_R._Newman) 1907&mdash;1966
   * [Googol](https://en.wikipedia.org/wiki/Googol)
   * [Googolplex](https://en.wikipedia.org/wiki/Googolplex)
+* *A way of life : An address to Yale students Sunday evening, April 20th, 1913* by [William Osler](https://en.wikipedia.org/wiki/William_Osler) 1849&mdash;1919
+  * [The Project Gutenberg eBook 73116](https://www.gutenberg.org/ebooks/73116)
 * [*Seven Pillars of Wisdom*](https://en.wikipedia.org/wiki/Seven_Pillars_of_Wisdom) 1926 by [Thomas Edward Lawrence](https://en.wikipedia.org/wiki/T._E._Lawrence) 1888&mdash;1935
   * [The Project Gutenberg of Australia eBook 0100111h](https://gutenberg.net.au/ebooks01/0100111h.html)
   * [Brough Superior](https://en.wikipedia.org/wiki/Brough_Superior) by [George Brough](https://en.wikipedia.org/wiki/George_Brough) 1890&mdash;1970
