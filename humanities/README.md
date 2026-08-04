@@ -33,6 +33,7 @@
   * [Padmasambhava](https://en.wikipedia.org/wiki/Padmasambhava)
   * [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
   * [A in Buddhism](https://en.wikipedia.org/wiki/A_in_Buddhism)
+* [Emerald Tablet](https://en.wikipedia.org/wiki/Emerald_Tablet) between the 8th and 10th centuries CE
 * [*Egil's Saga*](https://en.wikipedia.org/wiki/Egil%27s_Saga) 850&mdash;1000
   * [Egill Skallagrímsson](https://en.wikipedia.org/wiki/Egill_Skallagr%C3%ADmsson) 904&mdash;995
   * [Icelandic language](https://en.wikipedia.org/wiki/Icelandic_language)
