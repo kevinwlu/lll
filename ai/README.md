@@ -214,7 +214,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * ["Large content and behavior models to understand, simulate, and optimize content and behavior"](https://arxiv.org/abs/2309.00359)
 * [Music and artificial intelligence](https://en.wikipedia.org/wiki/Music_and_artificial_intelligence)
-  * [Suno AI](https://en.wikipedia.org/wiki/Suno_AI)
+  * [Suno (platform)](https://en.wikipedia.org/wiki/Suno_(platform))
   * [Udio](https://en.wikipedia.org/wiki/Udio)
 * [Artificial intelligence art](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
 * [Principles for Using Generative A․I․ in The Times’s Newsroom](https://www.nytco.com/press/principles-for-using-generative-a%e2%80%a4i%e2%80%a4-in-the-timess-newsroom/), May 9, 2024
