@@ -109,6 +109,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
 ## AI in Education
+* [AI literacy](https://en.wikipedia.org/wiki/AI_literacy)
 * [AI in Education: Approaches and Strategies for Educators](https://www.coursera.org/articles/ai-in-education), January 23, 2026
 * [ASU Atomic](https://atomic.asu.edu/)
 * [Brain in Overdrive: Ruminating Questions on The Future of Science Education](https://woolee.substack.com/p/brain-in-overdrive), March 22, 2026
