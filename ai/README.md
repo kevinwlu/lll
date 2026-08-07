@@ -179,6 +179,12 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Illia Polosukhin](https://scholar.google.com/citations?user=3SyxFIAAAAAJ&hl=en): [NEAR](https://near.org/) and [NEAR Protocol Developer Guide](https://github.com/near)
 * [Belief State Transformer](https://arxiv.org/abs/2410.23506) (BST)
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+* [Generative design of bacteriophages with genome language models](https://www.science.org/doi/10.1126/science.aec2657), August 6, 2026
+  * [Generating a synthetic genome by whole genome assembly: φX174 bacteriophage from synthetic oligonucleotides](https://www.pnas.org/doi/10.1073/pnas.2237126100), December 2, 2003
+  * [Phi X 174](https://en.wikipedia.org/wiki/Phi_X_174)
+  * [David R. Liu](https://en.wikipedia.org/wiki/David_R._Liu)
+  * [Kevin M. Esvelt](https://en.wikipedia.org/wiki/Kevin_M._Esvelt)
+  * [U.S. Government Policy for Stopping High-Risk Life Sciences Research](https://www.whitehouse.gov/wp-content/uploads/2026/07/USG-Policy-for-Stopping-High-Risk-Life-Sciences-Research_July-2026.pdf), July 20, 2026
 * [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis)
   * [Speech Synthesis Markup Language](https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language) (SSML)
   * [15.ai](https://en.wikipedia.org/wiki/15.ai)
