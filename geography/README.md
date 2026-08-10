@@ -3,6 +3,9 @@
 * [Abraham_Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) 1527&mdash;1598
 * [Bonaire](https://en.wikipedia.org/wiki/Bonaire)
 * [Bonnieux](https://en.wikipedia.org/wiki/Bonnieux)
+* [Galápagos Islands](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands)
+  * [Universidad San Francisco de Quito](https://en.wikipedia.org/wiki/Universidad_San_Francisco_de_Quito)
+  * [Marine ecosystem](https://en.wikipedia.org/wiki/Marine_ecosystem)
 * [Turpan](https://en.wikipedia.org/wiki/Turpan)
   * [Turpan Depression](https://en.wikipedia.org/wiki/Turpan_Depression)
 ---
