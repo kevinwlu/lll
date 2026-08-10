@@ -497,6 +497,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [CapCut](https://en.wikipedia.org/wiki/CapCut)
 * [HiDream.ai](https://hidreamai.com/home)
 * [iFLYTEK](https://en.wikipedia.org/wiki/IFlytek) 
+  * [Spark Smart Blackboard](https://www.iflytek.com/en/products/spark-smart-blackboard/blackboard.html)
 * [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou)
   * [Kling AI](https://klingai.org/)
   * [Kling video model](https://kling.kuaishou.com/en)
