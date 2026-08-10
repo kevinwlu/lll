@@ -460,6 +460,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
 ## AI Companies in China
 * [Artificial intelligence industry in China](https://en.wikipedia.org/wiki/Artificial_intelligence_industry_in_China)
+* [World Artificial Intelligence Conference](https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Conference) (WAIC)
 * Six AI Tigers
   * [01.AI](https://en.wikipedia.org/wiki/01.AI)
   * [Baichuan](https://en.wikipedia.org/wiki/Baichuan)
@@ -495,6 +496,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/), December 30, 2025
 * [CapCut](https://en.wikipedia.org/wiki/CapCut)
 * [HiDream.ai](https://hidreamai.com/home)
+* [iFLYTEK](https://en.wikipedia.org/wiki/IFlytek) 
 * [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou)
   * [Kling AI](https://klingai.org/)
   * [Kling video model](https://kling.kuaishou.com/en)
