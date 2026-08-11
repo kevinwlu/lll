@@ -338,6 +338,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Gemini Gems](https://gemini.google/overview/gems/)
     * [Imagen (text-to-image model)](https://en.wikipedia.org/wiki/Imagen_(text-to-image_model))
     * [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), August 5, 2025
+    * [Gemini Spark](https://gemini.google/overview/agent/spark/)
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
