@@ -375,6 +375,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Nat Friedman](https://en.wikipedia.org/wiki/Nat_Friedman)
   * [Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-msl/), April 8, 2026
   * [Muse Glimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model), August 10, 2026
+    * [Download the Model on Hugging Face](https://huggingface.co/meta-models/Muse-Glimmer-30B)
+    * [Developer Documentation](https://dev.meta.ai/docs/muse-glimmer)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms) acquired [Moltbook](https://en.wikipedia.org/wiki/Moltbook) on March 10, 2026
     * [Moltiverse](https://molti-verse.com/)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
