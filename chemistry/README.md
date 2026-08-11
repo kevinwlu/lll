@@ -34,6 +34,7 @@
 * [Superfluidity](https://en.wikipedia.org/wiki/Superfluidity)
 * [Tungsten](https://en.wikipedia.org/wiki/Tungsten)
   * [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan)
+* [Ultrasonic nozzle](https://en.wikipedia.org/wiki/Ultrasonic_nozzle)
 * [Wootz steel](https://en.wikipedia.org/wiki/Wootz_steel)
   * [Crucible steel](https://en.wikipedia.org/wiki/Crucible_steel)
   * [Damascus steel](https://en.wikipedia.org/wiki/Damascus_steel)
