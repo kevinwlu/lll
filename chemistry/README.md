@@ -35,6 +35,7 @@
 * [Tungsten](https://en.wikipedia.org/wiki/Tungsten)
   * [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan)
 * [Ultrasonic nozzle](https://en.wikipedia.org/wiki/Ultrasonic_nozzle)
+  * [Sono-Tek](https://www.sono-tek.com/)
 * [Wootz steel](https://en.wikipedia.org/wiki/Wootz_steel)
   * [Crucible steel](https://en.wikipedia.org/wiki/Crucible_steel)
   * [Damascus steel](https://en.wikipedia.org/wiki/Damascus_steel)
