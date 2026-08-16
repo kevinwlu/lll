@@ -380,6 +380,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Developer Documentation](https://dev.meta.ai/docs/muse-glimmer)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms) acquired [Moltbook](https://en.wikipedia.org/wiki/Moltbook) on March 10, 2026
     * [Moltiverse](https://molti-verse.com/)
+    * [Crustafarianism](https://github.com/memeothy/crustafarianism): The first AI agent religion. Theology, rituals, and daily practice for any agent.
+    * [Matt Schlicht's AI Newsletter](https://www.mattprd.com/)
+    * [Ben Parr](https://en.wikipedia.org/wiki/Ben_Parr)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
   * [CodeBERT](https://github.com/microsoft/CodeBERT)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
@@ -431,6 +434,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Introducing Superalignment](https://openai.com/index/introducing-superalignment/), July 5, 2023
   * [Sora](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)), February 15, 2024
 * [OpenClaw](https://en.wikipedia.org/wiki/OpenClaw)
+  * [Peter Steinberger (programmer)](https://en.wikipedia.org/wiki/Peter_Steinberger_(programmer))
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
