@@ -162,11 +162,13 @@
 * [Ma Yansong](https://en.wikipedia.org/wiki/Ma_Yansong)
 ## Photography
 * [Photography](https://en.wikipedia.org/wiki/Photography)
-* [List of photographs considered the most important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
-* [Helena Georgiou](https://www.helenageorgiou.com/)
-* [Julia Margaret Cameron](https://en.wikipedia.org/wiki/Julia_Margaret_Cameron) 1815&mdash;1879
 * [Daguerreotype](https://en.wikipedia.org/wiki/Daguerreotype)
   * [Louis Daguerre](https://en.wikipedia.org/wiki/Louis_Daguerre) 1787&mdash;1851
+* [List of photographs considered the most important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
+* [Deanna Dikeman](https://deannadikeman.com/)
+* [Helena Georgiou](https://www.helenageorgiou.com/)
+* [Julia Margaret Cameron](https://en.wikipedia.org/wiki/Julia_Margaret_Cameron) 1815&mdash;1879
+* [Philippe Halsman](https://en.wikipedia.org/wiki/Philippe_Halsman) 1906&mdash;1979
 ## Acting
 * [Konstantin Stanislavski](https://en.wikipedia.org/wiki/Konstantin_Stanislavski) 1863&mdash;1938
   * [Stanislavski's system](https://en.wikipedia.org/wiki/Stanislavski%27s_system)
