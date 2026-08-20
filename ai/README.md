@@ -63,6 +63,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [AI is turning research into a scientific monoculture](https://www.nature.com/articles/s44271-026-00428-5), February 23, 2026
 * [Physical AI](https://www.nvidia.com/en-us/glossary/generative-physical-ai/) lets autonomous systems like cameras, robots, and self-driving cars perceive, understand, [reason](https://en.wikipedia.org/wiki/Reason), and perform or orchestrate complex actions in the physical world
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
+  * [Consciousness](https://en.wikipedia.org/wiki/Consciousness)
+  * [Wisdom](https://en.wikipedia.org/wiki/Wisdom) also known as sapience
 * [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/) (CASMI)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
 * [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)
