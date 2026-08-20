@@ -281,6 +281,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Project Prometheus (company)](https://en.wikipedia.org/wiki/Project_Prometheus_(company))
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
+  * [Claude (AI)](https://en.wikipedia.org/wiki/Claude_(AI))
   * [Claude](https://www.anthropic.com/news/introducing-claude), March 14, 2023
   * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
   * [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/news/decomposing-language-models-into-understandable-components), October 5, 2023
