@@ -387,6 +387,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Crustafarianism](https://github.com/memeothy/crustafarianism): The first AI agent religion. Theology, rituals, and daily practice for any agent.
     * [Matt Schlicht's AI Newsletter](https://www.mattprd.com/)
     * [Ben Parr](https://en.wikipedia.org/wiki/Ben_Parr)
+* [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
   * [CodeBERT](https://github.com/microsoft/CodeBERT)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
