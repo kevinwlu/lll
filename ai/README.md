@@ -1,5 +1,5 @@
 # Artificial Intelligence
-![AI](/ai/AI.jpg)
+![AI](/ai/ai.jpeg)
 Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_generativeai-ml-llm-activity-7193399193988718593-VwcL)
 
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
