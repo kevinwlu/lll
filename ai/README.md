@@ -444,7 +444,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [OpenRouter](https://en.wikipedia.org/wiki/OpenRouter)
   * [Stripe, Inc.](https://en.wikipedia.org/wiki/Stripe,_Inc.)
-  * [Stripes (framework)](https://en.wikipedia.org/wiki/Stripes_(framework))
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
 * [Periodic Labs](https://periodic.com/), May 2025
 * [Perplexity AI](https://en.wikipedia.org/wiki/Perplexity_AI)
