@@ -292,6 +292,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare), April 24, 2025
   * [Claude Sonnet](https://www.anthropic.com/claude/sonnet)
   * [Glasswing](https://www.anthropic.com/glasswing)
+  * [Claude Mythos](https://en.wikipedia.org/wiki/Claude_Mythos)
   * [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/), April 7, 2026
   * [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), June 9, 2026
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
