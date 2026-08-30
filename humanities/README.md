@@ -127,6 +127,8 @@
   * [Down the rabbit hole](https://en.wikipedia.org/wiki/Down_the_rabbit_hole)
   * [Beautiful Soup (HTML parser)](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser))
 * [*Oahspe: A New Bible*](https://en.wikipedia.org/wiki/Oahspe:_A_New_Bible) 1882 by John Ballou Newbrough 1828&mdash;1891
+  * [Akashic records](https://en.wikipedia.org/wiki/Akashic_records)
+  * [*The Urantia Book*](https://en.wikipedia.org/wiki/The_Urantia_Book)
 * [*The Wonderful Wizard of Oz*](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz) 1900 by [L. Frank Baum](https://en.wikipedia.org/wiki/L._Frank_Baum) 1856&mdash;1919
   * [The Project Gutenberg eBook 55](https://www.gutenberg.org/ebooks/55)
   * [*Wicked: The Life and Times of the Wicked Witch of the West*](https://en.wikipedia.org/wiki/Wicked_(Maguire_novel)) 1995 by [Gregory Maguire](https://en.wikipedia.org/wiki/Gregory_Maguire)
