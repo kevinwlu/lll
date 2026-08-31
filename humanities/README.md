@@ -176,6 +176,7 @@
 * [*Impro: Improvisation and the Theatre*](https://en.wikipedia.org/wiki/Impro:_Improvisation_and_the_Theatre) 1979 by [Keith Johnstone](https://en.wikipedia.org/wiki/Keith_Johnstone) 1933&mdash;2023
   * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
   * [Yes, and ...](https://en.wikipedia.org/wiki/Yes,_and_...)
+  * [Impro by Keith Johnstone](https://ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/), January 23, 2010
   * [The Improv](https://en.wikipedia.org/wiki/The_Improv)
   * [Viola Spolin](https://en.wikipedia.org/wiki/Viola_Spolin) 1906&mdash;1994
   * [Theatre games](https://en.wikipedia.org/wiki/Theatre_games)
