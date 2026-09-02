@@ -40,6 +40,8 @@
   * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 * [Moral imagination](https://en.wikipedia.org/wiki/Imagination)
 * [Office of Science and Technology Policy](https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy) (OSTP)
+  * [United States Office of Research Integrity](https://en.wikipedia.org/wiki/United_States_Office_of_Research_Integrity) (ORI)
+  * [Scientific misconduct](https://en.wikipedia.org/wiki/Scientific_misconduct)
 * [PhilPapers](https://en.wikipedia.org/wiki/PhilPapers)
 * [Political ethics](https://en.wikipedia.org/wiki/Political_ethics)
 * [Public sector ethics](https://en.wikipedia.org/wiki/Public_sector_ethics)
