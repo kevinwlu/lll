@@ -7,6 +7,7 @@
   * [Emotional bias](https://en.wikipedia.org/wiki/Emotional_bias)
   * [Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias)
 * [Collaborative Institutional Training Initiative](https://about.citiprogram.org/) (CITI)
+* [Committee on Publication Ethics](https://en.wikipedia.org/wiki/Committee_on_Publication_Ethics) (COPE)
 * [Decorum](https://en.wikipedia.org/wiki/Decorum)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
   * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
