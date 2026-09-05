@@ -50,4 +50,3 @@
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
-* [United States Office of Research Integrity](https://en.wikipedia.org/wiki/United_States_Office_of_Research_Integrity) (ORI)
