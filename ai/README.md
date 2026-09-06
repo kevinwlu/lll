@@ -75,6 +75,16 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
 * [Office of Science and Technology Policy](https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy) (OSTP), [*Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People*](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf), October 2022
 * [NJ AI Hub](https://njaihub.org/)
+* [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li)
+  * [Google Scholar](https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en)
+  * [*The Worlds I See: Curiosity, Exploration and Discovery at the Dawn of AI*](https://www.youtube.com/watch?v=nCnQbrV9PCA) 2023
+  * [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
+  * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
+  * [World Labs](https://www.worldlabs.ai/)
+  * [Large World Model](https://github.com/LargeWorldModel/LWM) (LWM)
+  * [Spatial intelligence](https://en.wikipedia.org/wiki/Spatial_intelligence_(psychology))
+  * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
+    * [arXiv](https://arxiv.org/pdf/2501.19393)
 ##
 * [K. Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee), "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
