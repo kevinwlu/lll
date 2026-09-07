@@ -9,6 +9,7 @@
 * [Collaborative Institutional Training Initiative](https://about.citiprogram.org/) (CITI)
 * [Committee on Publication Ethics](https://en.wikipedia.org/wiki/Committee_on_Publication_Ethics) (COPE)
 * [Decorum](https://en.wikipedia.org/wiki/Decorum)
+* [Dereliction of duty in American law](https://en.wikipedia.org/wiki/Dereliction_of_duty_in_American_law)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
   * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
   * [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)* 
