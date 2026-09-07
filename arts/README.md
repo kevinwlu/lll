@@ -1,6 +1,7 @@
 # Arts
 * [List of most-visited art museums](https://en.wikipedia.org/wiki/List_of_most-visited_art_museums)
   * [Uffizi](https://en.wikipedia.org/wiki/Uffizi)
+* [Anachronism](https://en.wikipedia.org/wiki/Anachronism)
 * [Bayeux Tapestry](https://en.wikipedia.org/wiki/Bayeux_Tapestry)
   * [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet)
   * [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) 1656&mdash;1742
