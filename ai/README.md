@@ -8,6 +8,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Evan Hubinger](https://www.alignmentforum.org/users/evhub)
     * [Google Scholar](https://scholar.google.com/citations?user=LRivg1cAAAAJ&hl=en)
   * [Jacob Coxon](https://en.wikipedia.org/wiki/Jacob_Coxon)
+  * [Anthropic Risk Report: February 2026](https://www-cdn.anthropic.com/f4294ebe6210558c62226f44bd5c716f9cb80add/Redacted%20Risk%20Report%20Feb%202026.pdf)
+  * [Anthropic Risk Report: August 2026](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
 * [AI Resources at IEEE](https://ai.ieee.org/)
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
 * [Four Species of AI](https://www.linkedin.com/pulse/four-species-ai-geoffrey-moore-zjuyc/), February 26, 2026
