@@ -3,6 +3,11 @@
 Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_generativeai-ml-llm-activity-7193399193988718593-VwcL)
 
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
+* [Existential risk from artificial intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)
+  * [A call for collective action on cyber defense](https://openai.com/collective-cyberdefense/), August 27, 2026
+  * [Evan Hubinger](https://www.alignmentforum.org/users/evhub)
+    * [Google Scholar](https://scholar.google.com/citations?user=LRivg1cAAAAJ&hl=en)
+  * [Jacob Coxon](https://en.wikipedia.org/wiki/Jacob_Coxon)
 * [AI Resources at IEEE](https://ai.ieee.org/)
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
 * [Four Species of AI](https://www.linkedin.com/pulse/four-species-ai-geoffrey-moore-zjuyc/), February 26, 2026
