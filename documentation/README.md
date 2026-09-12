@@ -7,6 +7,7 @@
 * [Git](https://en.wikipedia.org/wiki/Git)
   * [Linux](https://en.wikipedia.org/wiki/Linux)
   * [Software Freedom Conservancy (SFC)](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy)
+* [GitClear](https://www.gitclear.com/)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
   * [Timeline of GitHub](https://en.wikipedia.org/wiki/Timeline_of_GitHub)
   * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
