@@ -286,6 +286,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
 * [Allen Institute for AI](https://en.wikipedia.org/wiki/Allen_Institute_for_AI) (Ai2)
+  * [Olmo 3](https://allenai.org/olmo)
   * [OLMoE](https://github.com/allenai/OLMoE) Open Mixture-of-Experts Language Models
   * [Tülu 3](https://allenai.org/tulu)
   * [Tülu 3: The next era in open post-training](https://allenai.org/blog/tulu-3-technical), November 21, 2024
