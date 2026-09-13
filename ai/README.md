@@ -6,11 +6,12 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock)
 * [Existential risk from artificial intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)
   * [A call for collective action on cyber defense](https://openai.com/collective-cyberdefense/), August 27, 2026
+  * [Anthropic Risk Report: February 2026](https://www-cdn.anthropic.com/f4294ebe6210558c62226f44bd5c716f9cb80add/Redacted%20Risk%20Report%20Feb%202026.pdf)
+  * [Anthropic Risk Report: August 2026](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
+  * [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier), September 2026
   * [Evan Hubinger](https://www.alignmentforum.org/users/evhub)
     * [Google Scholar](https://scholar.google.com/citations?user=LRivg1cAAAAJ&hl=en)
   * [Jacob Coxon](https://en.wikipedia.org/wiki/Jacob_Coxon)
-  * [Anthropic Risk Report: February 2026](https://www-cdn.anthropic.com/f4294ebe6210558c62226f44bd5c716f9cb80add/Redacted%20Risk%20Report%20Feb%202026.pdf)
-  * [Anthropic Risk Report: August 2026](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
 * [AI Resources at IEEE](https://ai.ieee.org/)
 * [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk), September 5, 2025
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
