@@ -40,6 +40,8 @@
   * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
   * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 * [Moral imagination](https://en.wikipedia.org/wiki/Imagination)
+* [Morris worm](https://en.wikipedia.org/wiki/Morris_worm)
+  * [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)
 * [Office of Science and Technology Policy](https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy) (OSTP)
   * [United States Office of Research Integrity](https://en.wikipedia.org/wiki/United_States_Office_of_Research_Integrity) (ORI)
   * [Scientific misconduct](https://en.wikipedia.org/wiki/Scientific_misconduct)
