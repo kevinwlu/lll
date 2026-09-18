@@ -3,6 +3,7 @@
 Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_generativeai-ml-llm-activity-7193399193988718593-VwcL)
 
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
+  * [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2026/05/thinking-fast-slow-and-artificially/), February 2, 2026
 * [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock)
 * [Existential risk from artificial intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)
   * [A call for collective action on cyber defense](https://openai.com/collective-cyberdefense/), August 27, 2026
