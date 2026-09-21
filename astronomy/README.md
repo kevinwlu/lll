@@ -13,6 +13,8 @@
 * [Ralph H. Fowler](https://en.wikipedia.org/wiki/Ralph_H._Fowler) 1889&mdash;1944
 * [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) 1904&mdash;1967
 * [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) 1910&mdash;1995
+  * [Chandra X-Ray Observatory](https://en.wikipedia.org/wiki/Chandra_X-ray_Observatory)
+  * [NASA’s Chandra Unveils Mysterious X-Ray Objects](https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/)
 * [William Alfred Fowler](https://en.wikipedia.org/wiki/William_Alfred_Fowler) 1911&mdash;1995
 * [Richard Goldstein](https://en.wikipedia.org/wiki/Richard_Goldstein_(astronomer)) 1927&mdash;2024
   * [Radar astronomy](https://en.wikipedia.org/wiki/Radar_astronomy)
