@@ -4,6 +4,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
   * [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2026/05/thinking-fast-slow-and-artificially/), February 2, 2026
+  * [Report of MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/), August 13, 2026
 * [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock)
 * [Existential risk from artificial intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)
   * [A call for collective action on cyber defense](https://openai.com/collective-cyberdefense/), August 27, 2026
@@ -132,7 +133,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007
 * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
-## AI in Education
+## AI and Education
 * [AI literacy](https://en.wikipedia.org/wiki/AI_literacy)
 * [AI in Education: Approaches and Strategies for Educators](https://www.coursera.org/articles/ai-in-education), January 23, 2026
 * [ASU Atomic](https://atomic.asu.edu/)
