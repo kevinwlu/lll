@@ -319,6 +319,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Claude Mythos](https://en.wikipedia.org/wiki/Claude_Mythos)
   * [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/), April 7, 2026
   * [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), June 9, 2026
+  * [Fable 5.1and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1), September 1, 2026
   * [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5), September 22, 2026
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition AI](https://en.wikipedia.org/wiki/Cognition_AI)
