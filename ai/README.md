@@ -98,6 +98,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Spatial intelligence](https://en.wikipedia.org/wiki/Spatial_intelligence_(psychology))
   * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
     * [arXiv](https://arxiv.org/pdf/2501.19393)
+* [Knowledge distillation](https://en.wikipedia.org/wiki/Knowledge_distillation) or model distillation
 ##
 * [K. Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee), "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
