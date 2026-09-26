@@ -23,6 +23,7 @@
   * [Sacagawea](https://en.wikipedia.org/wiki/Sacagawea) 1788&mdash;1812
   * [Toussaint Charbonneau](https://en.wikipedia.org/wiki/Toussaint_Charbonneau) 1767&mdash;1843
 * [Chinese Educational Mission](https://en.wikipedia.org/wiki/Chinese_Educational_Mission) 1872&mdash;1881
+* [Memory of the World Programme](https://en.wikipedia.org/wiki/Memory_of_the_World_Programme)
 ---
 * [Chichen Itza](https://en.wikipedia.org/wiki/Chichen_Itza)
 * [History of the Incas](https://en.wikipedia.org/wiki/History_of_the_Incas)
