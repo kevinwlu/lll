@@ -448,6 +448,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [GPT-5.6](https://en.wikipedia.org/wiki/GPT-5.6), July 9, 2026
   * [GPT-6 Astra](https://en.wikipedia.org/wiki/GPT-6_Astra), September 3, 2026
     * [GPT‑6 Astra](https://openai.com/index/gpt-6-astra/), September 3, 2026
+    * [GPT‑6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/), September 22, 2026
   * [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/), August 5, 2025
   * [Reasoning models](https://platform.openai.com/docs/guides/reasoning)
     * [Reasoning best practices](https://platform.openai.com/docs/guides/reasoning-best-practices)
