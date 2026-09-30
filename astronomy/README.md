@@ -50,6 +50,8 @@
   * [Lunar distance](https://en.wikipedia.org/wiki/Lunar_distance) (LD)
 * [Astronomical coordinate systems](https://en.wikipedia.org/wiki/Astronomical_coordinate_systems)
   * [Galactic coordinate system](https://en.wikipedia.org/wiki/Galactic_coordinate_system)
+* [Beta Pictoris b](https://en.wikipedia.org/wiki/Beta_Pictoris_b) 
+  * [Discovery of radio emission from the exoplanet β Pictoris b](https://arxiv.org/html/2609.16720v1), September 15, 2026
 * [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event)
 * [Causal sets](https://en.wikipedia.org/wiki/Causal_sets)
 * [Comet](https://en.wikipedia.org/wiki/Comet)
