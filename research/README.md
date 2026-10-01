@@ -68,3 +68,12 @@
 * [Kerning](https://en.wikipedia.org/wiki/Kerning)
 * [Letter spacing](https://en.wikipedia.org/wiki/Letter_spacing)
 * [Leading](https://en.wikipedia.org/wiki/Leading)
+---
+* [Fundamental Research Security](https://nsf-gov-resources.nsf.gov/files/JSR-19-2IFundamentalResearchSecurity-12062019FINAL.pdf), December 2019
+* [Supported Research and Development National Security Policy](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-memorandum-united-states-government-supported-research-development-national-security-policy/), January 14, 2021
+* [Public Law 117–167](https://www.congress.gov/117/plaws/publ167/PLAW-117publ167.pdf), August 9, 2022
+* [Pre- and Post-award Disclosures Relating to the Biographical Sketch and Current and Pending (Other) Support](https://www.nsf.gov/policies/nspm-33)
+* [Travel Tips](https://archive.dni.gov/index.php/ncsc-how-we-work/ncsc-know-the-risk-raise-your-shield/ncsc-travel-tips)
+* [International Travel](https://travel.state.gov/en/international-travel.html)
+* [Dangerous Goods Manuals](https://www.iata.org/en/publications/manuals/dangerous-goods/)
+* [Defining the Role of Authors and Contributors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
