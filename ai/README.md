@@ -364,6 +364,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/), July 25, 2024
     * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) (Robotic Transformer 2), July 28, 2023
     * [Gemma (language model)](https://en.wikipedia.org/wiki/Gemma_(language_model))
+  * [Google Gemini](https://en.wikipedia.org/wiki/Google_Gemini)
     * [Gemini (chatbot)](https://en.wikipedia.org/wiki/Gemini_(chatbot))
     * [Try Deep Research and our new experimental model in Gemini, your AI assistant](https://blog.google/products/gemini/google-gemini-deep-research/), December 11, 2024
     * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
@@ -371,6 +372,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Imagen (text-to-image model)](https://en.wikipedia.org/wiki/Imagen_(text-to-image_model))
     * [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), August 5, 2025
     * [Gemini Spark](https://gemini.google/overview/agent/spark/)
+    * [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/), September 30, 2026
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
