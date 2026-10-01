@@ -498,7 +498,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Technology Innovation Institute](https://en.wikipedia.org/wiki/Technology_Innovation_Institute) (TII)
   * [Falcon Mamba 7B](https://falconllm.tii.ae/tii-releases-first-sslm-with-falcon-mamba-7b.html)
   * [Mamba](https://github.com/state-spaces/mamba)
-* [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025 by [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
+* [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025
+  * [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
+  * [John Schulman](https://en.wikipedia.org/wiki/John_Schulman)
 * [Together AI](https://www.together.ai/)
 * [Uber](https://www.uber.com/blog/)
   * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
