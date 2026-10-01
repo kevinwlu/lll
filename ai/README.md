@@ -202,7 +202,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Jakob Uszkoreit](https://scholar.google.com/citations?user=mOG0bwsAAAAJ&hl=en): [Inceptive](https://inceptive.life/)
   * [Llion Jones](https://scholar.google.com/citations?user=_3_P5VwAAAAJ&hl=en): [Sakana AI](https://sakana.ai/)
   * [Aidan N. Gomez](https://en.wikipedia.org/wiki/Aidan_Gomez): [Cohere](https://en.wikipedia.org/wiki/Cohere)
-  * [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en): [OpenAI](https://en.wikipedia.org/wiki/OpenAI) and [CNRS](https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research)
+  * [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en): [](https://en.wikipedia.org/wiki/OpenAI) and [CNRS](https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research)
   * [Illia Polosukhin](https://scholar.google.com/citations?user=3SyxFIAAAAAJ&hl=en): [NEAR](https://near.org/) and [NEAR Protocol Developer Guide](https://github.com/near)
 * [Belief State Transformer](https://arxiv.org/abs/2410.23506) (BST)
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
@@ -428,6 +428,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [opAIda.ai](https://opaida.ai/)
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+  * [Greg Brockman](https://en.wikipedia.org/wiki/Greg_Brockman)
   * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
