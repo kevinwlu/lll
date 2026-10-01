@@ -99,6 +99,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
     * [arXiv](https://arxiv.org/pdf/2501.19393)
 * [Knowledge distillation](https://en.wikipedia.org/wiki/Knowledge_distillation) or model distillation
+* [Open weights](https://en.wikipedia.org/wiki/Open_weights)
 ##
 * [K. Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee), "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
@@ -501,6 +502,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025
   * [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
   * [John Schulman](https://en.wikipedia.org/wiki/John_Schulman)
+  * [Inkling (large language model)](https://en.wikipedia.org/wiki/Inkling_(large_language_model))
 * [Together AI](https://www.together.ai/)
 * [Uber](https://www.uber.com/blog/)
   * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
