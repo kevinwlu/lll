@@ -213,6 +213,7 @@
   * [J.A.R.V.I.S.](https://en.wikipedia.org/wiki/J.A.R.V.I.S.) (Just a Rather Very Intelligent System) 2008
 * [*One Hundred Years of Solitude*](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude) 1967
   * [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez) 1927&mdash;2014
+  * [Magical realism](https://en.wikipedia.org/wiki/Magical_realism)
 * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) 1968
   * [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke) 1917&mdash;2008
   * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) 1968
