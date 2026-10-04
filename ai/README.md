@@ -94,6 +94,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
   * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
   * [World Labs](https://www.worldlabs.ai/)
+  * [AMD to Acquire World Labs to Advance the Future of AI Compute](https://newsroom.amd.com/news/amd-acquire-world-labs/), September 28, 2026
   * [Large World Model](https://github.com/LargeWorldModel/LWM) (LWM)
   * [Spatial intelligence](https://en.wikipedia.org/wiki/Spatial_intelligence_(psychology))
   * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
