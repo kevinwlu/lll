@@ -28,6 +28,8 @@
 * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
   * [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
   * [Casa Batlló](https://en.wikipedia.org/wiki/Casa_Batll%C3%B3)
+* [John Singer Sargent](https://en.wikipedia.org/wiki/John_Singer_Sargent) 1856&mdash;1925
+  * [*Gassed* (painting)](https://en.wikipedia.org/wiki/Gassed_(painting))
 * [Georges Seurat](https://en.wikipedia.org/wiki/Georges_Seurat) 1859&mdash;1891
   * [Pointillism](https://en.wikipedia.org/wiki/Pointillism)
   * [Pixel art](https://en.wikipedia.org/wiki/Pixel_art)
