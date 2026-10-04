@@ -216,6 +216,7 @@
   * [1982 Nobel Prize in Literature](https://en.wikipedia.org/wiki/1982_Nobel_Prize_in_Literature)
   * [Nobel Lecture: Hispanic Heritage in the Americas](https://www.nobelprize.org/prizes/literature/1982/marquez/lecture/), December 8, 1982
   * [Magical realism](https://en.wikipedia.org/wiki/Magical_realism)
+  * [*Love in the Time of Cholera*](https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera) 1985
 * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) 1968
   * [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke) 1917&mdash;2008
   * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) 1968
