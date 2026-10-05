@@ -74,6 +74,8 @@
   * [A travelling-wave strategy for plant–fungal trade](https://www.nature.com/articles/s41586-025-08614-x), February 26, 2025
 * [Mourning dove](https://en.wikipedia.org/wiki/Mourning_dove)
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
+* [Optogenetics](https://en.wikipedia.org/wiki/Optogenetics)
+  * [Nobel Prize in Physiology or Medicine 2026](https://www.youtube.com/watch?v=Q3yoss9R8F4)
 * [Ornithology](https://en.wikipedia.org/wiki/Ornithology)
 * [Ortolan bunting](https://en.wikipedia.org/wiki/Ortolan_bunting)
   * [*The Taste of Things*](https://en.wikipedia.org/wiki/The_Taste_of_Things) 2023
