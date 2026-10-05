@@ -77,6 +77,8 @@
   * [Nocturnes, Op. 9 (Chopin)](https://en.wikipedia.org/wiki/Nocturnes,_Op._9_(Chopin)) 1832
   * [Ballade No. 1 (Chopin)](https://en.wikipedia.org/wiki/Ballade_No._1_(Chopin)) 1835
     * [Ballade (classical music)](https://en.wikipedia.org/wiki/Ballade_(classical_music))
+    * [Krystian Zimerman](https://en.wikipedia.org/wiki/Krystian_Zimerman)
+    * [YouTube](https://www.youtube.com/watch?v=BSFNl4roGlI)
   * [Mazurkas, Op. 24 (Chopin)](https://en.wikipedia.org/wiki/Mazurkas,_Op._24_(Chopin)) 1835
     * [WQXR-FM](https://en.wikipedia.org/wiki/WQXR-FM) morning program theme song
     * [Mazurka Op. 24 No. 2 in C Major](https://www.youtube.com/watch?v=44X4LG5BqhY) 2009 by [Martha Argerich](https://en.wikipedia.org/wiki/Martha_Argerich)
