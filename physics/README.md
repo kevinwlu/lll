@@ -14,4 +14,6 @@
 * [Feynman sprinkler](https://en.wikipedia.org/wiki/Feynman_sprinkler)
   * ["Geometry controls momentum flux in the sprinkler problem"](https://www.pnas.org/doi/abs/10.1073/pnas.2537479123), July 13, 2026
   * ["Centrifugal Flows Drive Reverse Rotation of Feynman’s Sprinkler"](https://link.aps.org/accepted/10.1103/PhysRevLett.132.044003), January 26, 2024
- 
+* [IceCube Neutrino Observatory](https://en.wikipedia.org/wiki/IceCube_Neutrino_Observatory)
+  * [Francis Halzen](https://en.wikipedia.org/wiki/Francis_Halzen)
+  * [Nobel Prizes 2026](https://www.nobelprize.org/all-nobel-prizes-2026/)
