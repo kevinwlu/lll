@@ -8,6 +8,8 @@
 * [Energy Literacy: Essential Principles for Energy Education](https://www.energy.gov/energysaver/energy-literacy-essential-principles-energy-education)
 * [Flame retardant](https://en.wikipedia.org/wiki/Flame_retardant)
   * [Conflagration](https://en.wikipedia.org/wiki/Conflagration)
+* [Henri B. Kagan](https://en.wikipedia.org/wiki/Henri_B._Kagan) and [Kensō Soai](https://en.wikipedia.org/wiki/Kens%C5%8D_Soai)
+  * [Nobel Prizes 2026](https://www.nobelprize.org/all-nobel-prizes-2026/)
 * [List of phytochemicals in food](https://en.wikipedia.org/wiki/List_of_phytochemicals_in_food)
   * [Phytochemical](https://en.wikipedia.org/wiki/Phytochemical)
   * [Anthocyanidin](https://en.wikipedia.org/wiki/Anthocyanidin)
