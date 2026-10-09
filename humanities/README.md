@@ -280,6 +280,8 @@
 * [*Bullshit Jobs: A Theory*](https://en.wikipedia.org/wiki/Bullshit_Jobs) 2018
   * [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) 1961&mdash;2020
 * [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
+* *I May Be Wrong and Other Wisdoms From Life as a Forest Monk* 2022
+  * [Björn Natthiko Lindeblad](https://en.wikipedia.org/wiki/Bj%C3%B6rn_Natthiko_Lindeblad) 1961&mdash;2022
 * *Isola: A Novel* 2025
   * [Allegra Goodman](https://en.wikipedia.org/wiki/Allegra_Goodman)
   * [Isle of Demons](https://en.wikipedia.org/wiki/Isle_of_Demons)
