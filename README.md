@@ -44,6 +44,12 @@ Make lifelong learning an everyday habit
   * [Edward D. Hess](https://en.wikipedia.org/wiki/Edward_D._Hess), *[Hyper-Learning: How to Adapt to the Speed of Change](https://www.edhess.org/)*, [Berrett-Koehler](https://www.bkconnection.com/), 2020
   * [Ian Morrison](https://ianmorrison.com/311/), *[The Second Curve: Managing the Velocity of Change](https://books.google.com/books/about/The_Second_Curve.html?id=jF3VUVY3CocC)*, [Nicholas Brealey](https://nbuspublishing.com/), 1996
   * [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy), *[The Second Curve: Thoughts on Reinventing Society](https://books.google.com/books/about/The_Second_Curve.html?id=yztOBQAAQBAJ)*, [Random House](https://en.wikipedia.org/wiki/Random_House), 2015
+* [Peer learning](https://en.wikipedia.org/wiki/Peer_learning)
+* [Metacognition](https://en.wikipedia.org/wiki/Metacognition)
+* [Visible learning](https://en.wikipedia.org/wiki/Visible_learning)
+  * [Jerome Bruner](https://en.wikipedia.org/wiki/Jerome_Bruner) 1915&mdash;2016
+  * [John Hattie](https://en.wikipedia.org/wiki/John_Hattie)
+  * [Peter Gärdenfors](https://en.wikipedia.org/wiki/Peter_G%C3%A4rdenfors)
 * [M-learning](https://en.wikipedia.org/wiki/M-learning) or mobile learning
 * [Microlearning](https://en.wikipedia.org/wiki/Microlearning)
 * [Nanolearning](https://www.digitallearninginstitute.com/blog/what-is-nano-learning/)
