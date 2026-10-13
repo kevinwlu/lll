@@ -47,6 +47,7 @@ Make lifelong learning an everyday habit
 * [Peer learning](https://en.wikipedia.org/wiki/Peer_learning)
 * [Metacognition](https://en.wikipedia.org/wiki/Metacognition)
 * [Visible learning](https://en.wikipedia.org/wiki/Visible_learning)
+  * [Jean Piaget](https://en.wikipedia.org/wiki/Jean_Piaget) 1896&mdash;1980
   * [Jerome Bruner](https://en.wikipedia.org/wiki/Jerome_Bruner) 1915&mdash;2016
   * [John Hattie](https://en.wikipedia.org/wiki/John_Hattie)
   * [Peter Gärdenfors](https://en.wikipedia.org/wiki/Peter_G%C3%A4rdenfors)
