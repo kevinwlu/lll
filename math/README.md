@@ -68,3 +68,6 @@
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm) by [Narendra Karmarkar](https://en.wikipedia.org/wiki/Narendra_Karmarkar)
 * [Ricci flow](https://en.wikipedia.org/wiki/Ricci_flow)
 * [Tripod packing](https://en.wikipedia.org/wiki/Tripod_packing)
+* [Mary Tsingou](https://en.wikipedia.org/wiki/Mary_Tsingou) 1928&mdash;2026
+* [Margaret Hamilton (software engineer)](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) 1936&mdash;2026
+* [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) 1906&mdash;1992
