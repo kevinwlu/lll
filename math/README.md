@@ -67,3 +67,4 @@
 * [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad) (IMO)
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm) by [Narendra Karmarkar](https://en.wikipedia.org/wiki/Narendra_Karmarkar)
 * [Ricci flow](https://en.wikipedia.org/wiki/Ricci_flow)
+* [Tripod packing](https://en.wikipedia.org/wiki/Tripod_packing)
