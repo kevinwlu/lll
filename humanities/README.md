@@ -1,6 +1,7 @@
 # Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
 * [Digital humanities](https://en.wikipedia.org/wiki/Digital_humanities)
+* [Anthology](https://en.wikipedia.org/wiki/Anthology)
 * [Esperanto](https://en.wikipedia.org/wiki/Esperanto) is a [Constructed language](https://en.wikipedia.org/wiki/Constructed_language) and [International auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language) (IAL)
 * [Slang](https://en.wikipedia.org/wiki/Slang)
 * [Glossary of 2020s slang](https://en.wikipedia.org/wiki/Glossary_of_2020s_slang#I)
