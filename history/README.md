@@ -25,6 +25,8 @@
 * [Chinese Educational Mission](https://en.wikipedia.org/wiki/Chinese_Educational_Mission) 1872&mdash;1881
 * [Emily Davison](https://en.wikipedia.org/wiki/Emily_Davison) 1872&mdash;1913
 * [Memory of the World Programme](https://en.wikipedia.org/wiki/Memory_of_the_World_Programme)
+  * [Far Hills Races](https://en.wikipedia.org/wiki/Far_Hills_Races)
+  * [Steeplechase (horse racing)](https://en.wikipedia.org/wiki/Steeplechase_(horse_racing))
 * [*Gung ho*](https://en.wikipedia.org/wiki/Gung_ho)
 * [Mulligan (games)](https://en.wikipedia.org/wiki/Mulligan_(games))
 ---
