@@ -1,4 +1,5 @@
 # Neuroscience
+* [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia)
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
