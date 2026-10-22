@@ -335,6 +335,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean)
 * [Eleos AI Research](https://eleosai.org/)
   * [Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986), November 4, 2024
+* [Emergence](https://www.emergence.ai/)
+  * [Emergence World](https://world.emergence.ai/)
 * [ENERZAi](https://enerzai.com/)
 * [The Falcon Series of Open Language Models](https://arxiv.org/abs/2311.16867)
 * [Fireworks AI](https://fireworks.ai/)
