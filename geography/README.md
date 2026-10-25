@@ -6,6 +6,7 @@
 * [Galápagos Islands](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands)
   * [Universidad San Francisco de Quito](https://en.wikipedia.org/wiki/Universidad_San_Francisco_de_Quito)
   * [Marine ecosystem](https://en.wikipedia.org/wiki/Marine_ecosystem)
+* [Tristan da Cunha](https://en.wikipedia.org/wiki/Tristan_da_Cunha)
 * [Turpan](https://en.wikipedia.org/wiki/Turpan)
   * [Turpan Depression](https://en.wikipedia.org/wiki/Turpan_Depression)
 ---
