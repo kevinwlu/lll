@@ -46,12 +46,12 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Humanity's Last Exam](https://agi.safe.ai/) (HLE)
   * [GPQA](https://github.com/idavidrein/gpqa) (Google-Proof Q&A)
   * [MMLU](https://en.wikipedia.org/wiki/MMLU) (Measuring Massive Multitask Language Understanding)
-* [Agentic AI](https://en.wikipedia.org/wiki/Agentic_AI)
+* [AI agent](https://en.wikipedia.org/wiki/AI_agent)
   * [Agent2Agent Protocol](https://a2aprotocol.ai/) (A2A)
   * [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/), April 9, 2025
-  * [AI agent](https://en.wikipedia.org/wiki/AI_agent)
   * [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system) (MAS)
   * [Multi-agent evaluation system](https://github.com/knijesh) by Kanjinghat Nijesh
+  * [Architecting the Agentic AI Systems Stack: What Should Infrastructure Manage When the Unit of Work Is a Trajectory](https://dl.acm.org/doi/10.1145/3830422.3830429) by Vijay Janapa Reddi
 * [Blended artificial intelligence](https://en.wikipedia.org/wiki/Blended_artificial_intelligence)
 * [Clanker](https://en.wikipedia.org/wiki/Clanker)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
