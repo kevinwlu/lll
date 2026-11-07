@@ -61,3 +61,4 @@
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
+* [Twinkie defense](https://en.wikipedia.org/wiki/Twinkie_defense)
