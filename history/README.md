@@ -14,6 +14,7 @@
 * [Crisis of the late Middle Ages](https://en.wikipedia.org/wiki/Crisis_of_the_late_Middle_Ages)
 * [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 * [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
+* [Casimir Pulaski](https://en.wikipedia.org/wiki/Casimir_Pulaski) 1745&mdash;1779
 * [Horatio Nelson, 1st Viscount Nelson](https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson) 1758&mdash;1805
   * [The Story of Nelson](https://www.heritage-history.com/index.php?c=read&author=cambridge&book=primary&story=nelson1)
 * [Lewis and Clark Expedition](https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition) May 14, 1804&mdash;September 23, 1806
