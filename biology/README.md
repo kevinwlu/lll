@@ -119,6 +119,10 @@
   * Cervico-ocular reflex (COR)
   * [Optokinetic response](https://en.wikipedia.org/wiki/Optokinetic_response) (OKR)
 ## Interstitium
+* [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
+  * [Chakra](https://en.wikipedia.org/wiki/Chakra)
+  * [Meridian](https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine))
+* [*Capillary Fluid Exchange: Regulation, Functions, and Pathology*](https://www.ncbi.nlm.nih.gov/books/NBK53447/) 2010
 * [Is the Newly Described Interstitial Network the Anatomical Basis of Acupuncture Meridians? A Commentary](https://pubmed.ncbi.nlm.nih.gov/30874366/)
   * [Gaspare Aselli](https://en.wikipedia.org/wiki/Gaspare_Aselli) 1581&mdash;1625
   * [William Harvey](https://en.wikipedia.org/wiki/William_Harvey) 1578&mdash;1657
@@ -139,9 +143,6 @@
 * [Gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
 * [Hyaluronic acid](https://en.wikipedia.org/wiki/Hyaluronic_acid)
 * ["Inside the Interstitium: the Human Body's Hidden Pathways"](https://www.nytimes.com/interactive/2026/05/11/magazine/interstitium-anatomy-acupuncture-medicine.html), May 11, 2026
-* [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
-  * [Chakra](https://en.wikipedia.org/wiki/Chakra)
-  * [Meridian](https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine))
 * [Lymphatic vessel](https://en.wikipedia.org/wiki/Lymphatic_vessel)
 * [Mesoglea](https://en.wikipedia.org/wiki/Mesoglea)
 * [Submucosa](https://en.wikipedia.org/wiki/Submucosa)
