@@ -2,6 +2,7 @@
 * [Adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate) (ATP)
   * [Harini Sampath](https://nutrition.rutgers.edu/faculty/harini-sampath.html)
 * [Aesculus glabra](https://en.wikipedia.org/wiki/Aesculus_glabra) as known as buckeye
+* [Albatross](https://en.wikipedia.org/wiki/Albatross)
 * [Areca catechu](https://en.wikipedia.org/wiki/Areca_catechu) 
 * [Areca nut](https://en.wikipedia.org/wiki/Areca_nut)
 * [Artificial cell](https://en.wikipedia.org/wiki/Artificial_cell)
