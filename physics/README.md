@@ -18,3 +18,4 @@
   * [Neutrino](https://en.wikipedia.org/wiki/Neutrino)
   * [Francis Halzen](https://en.wikipedia.org/wiki/Francis_Halzen)
   * [Nobel Prizes 2026](https://www.nobelprize.org/all-nobel-prizes-2026/)
+* [Pneumatic motor](https://en.wikipedia.org/wiki/Pneumatic_motor)
