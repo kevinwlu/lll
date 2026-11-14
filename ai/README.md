@@ -507,6 +507,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025
   * [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
   * [John Schulman](https://en.wikipedia.org/wiki/John_Schulman)
+  * [Kevin Lu](https://kevinlu.ai/)
   * [Inkling (large language model)](https://en.wikipedia.org/wiki/Inkling_(large_language_model))
 * [Together AI](https://www.together.ai/)
 * [Uber](https://www.uber.com/blog/)
