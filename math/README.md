@@ -71,3 +71,9 @@
 * [Mary Tsingou](https://en.wikipedia.org/wiki/Mary_Tsingou) 1928&mdash;2026
 * [Margaret Hamilton (software engineer)](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) 1936&mdash;2026
 * [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) 1906&mdash;1992
+## Proof Assitant
+* [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant)
+* [Lean (proof assistant)](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
+* [Rocq](https://en.wikipedia.org/wiki/Rocq)
+* [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
+* [HaLLMos](https://hallmos.com/)
