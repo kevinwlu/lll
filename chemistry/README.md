@@ -1,11 +1,13 @@
 # Chemistry
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
   * [The Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
+* [Aviation biofuel](https://en.wikipedia.org/wiki/Aviation_biofuel)
 * [BASF](https://en.wikipedia.org/wiki/BASF)
 * [Bromine](https://en.wikipedia.org/wiki/Bromine)
 * [Brominated flame retardant](https://en.wikipedia.org/wiki/Brominated_flame_retardant) (BFR)
 * [Dark oxygen](https://en.wikipedia.org/wiki/Dark_oxygen)
 * [Energy Literacy: Essential Principles for Energy Education](https://www.energy.gov/energysaver/energy-literacy-essential-principles-energy-education)
+* [Fischer–Tropsch process](https://en.wikipedia.org/wiki/Fischer%E2%80%93Tropsch_process)
 * [Flame retardant](https://en.wikipedia.org/wiki/Flame_retardant)
   * [Conflagration](https://en.wikipedia.org/wiki/Conflagration)
 * [Hai-Lung Dai](https://en.wikipedia.org/wiki/Hai-Lung_Dai)
