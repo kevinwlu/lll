@@ -48,6 +48,7 @@
   * [*Kiki's Delivery Service*](https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service) 1989
   * [*Spirited Away*](https://en.wikipedia.org/wiki/Spirited_Away) 2001
   * [*The Boy and the Heron*](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) 2023
+* [Andreas Wannerstedt](https://andreaswannerstedt.se/)
 * [Daniel Wurtzel](https://www.danielwurtzel.com/)
   * [YouTube channel](https://www.youtube.com/@danielwurtzel/)
 * [Tristan Duke](https://www.tristanduke.com/)
