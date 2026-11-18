@@ -307,6 +307,7 @@
 * [Onomatopoeia](https://en.wikipedia.org/wiki/Onomatopoeia)
   * [List of animal sounds](https://en.wikipedia.org/wiki/List_of_animal_sounds)
   * [List of onomatopoeias](https://en.wikipedia.org/wiki/List_of_onomatopoeias)
+* [Word of the year](https://en.wikipedia.org/wiki/Word_of_the_year)
 ## Poetry
 * [Poetry](https://en.wikipedia.org/wiki/Poetry)
 * [*Instead of Depression*](https://poets.org/poem/instead-depression)
