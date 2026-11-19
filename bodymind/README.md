@@ -6,6 +6,8 @@
 * [*Be Here Now*](https://en.wikipedia.org/wiki/Be_Here_Now_(book)) by [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass) 1931&mdash;2019
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
 * [Algospeak](https://en.wikipedia.org/wiki/Algospeak)
+* [Andrew Steele](https://andrewsteele.co.uk/)
+  * [Charles Eugster](https://en.wikipedia.org/wiki/Charles_Eugster) 1919&mdash;2017
 * [Arnold Kegel](https://en.wikipedia.org/wiki/Arnold_Kegel) 1894&mdash;1972
   * [Kegel exercise](https://en.wikipedia.org/wiki/Kegel_exercise) 1948
 * [Mental chronometry](https://en.wikipedia.org/wiki/Mental_chronometry)
