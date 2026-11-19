@@ -24,6 +24,8 @@
   * [Guidelines for Facilitating Solutions to Ethical Dilemmas in Professional Practice](https://www.depts.ttu.edu/murdoughcenter/products/resources/guidelines-for-facilitating-solutions.php)
 * [Ethical code](https://en.wikipedia.org/wiki/Ethical_code)
 * [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/) 
+* [Altruism](https://en.wikipedia.org/wiki/Altruism)
+* [Effective altruism](https://en.wikipedia.org/wiki/Effective_altruism) (EA)
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette)
 * [Exam invigilator](https://en.wikipedia.org/wiki/Exam_invigilator)
   * [Proctor](https://en.wikipedia.org/wiki/Proctor)
