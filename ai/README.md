@@ -429,6 +429,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
   * [Mistral (wind)](https://en.wikipedia.org/wiki/Mistral_(wind))
 * [Nota AI](https://www.nota.ai/)
+* [Nvidia](https://en.wikipedia.org/wiki/Nvidia)
+  * [Nemotron](https://en.wikipedia.org/wiki/Nemotron)
 * [Okahu](https://www.okahu.ai/)
   * [GitHub](https://github.com/okahu)
 * [opAIda.ai](https://opaida.ai/)
