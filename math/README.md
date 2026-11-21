@@ -20,7 +20,7 @@
 * [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) 1777&mdash;1855
 * [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai) 1802&mdash;1860
 * [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) 1826&mdash;1866
-  * [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis)
+  * [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) was proposed in 1859
 * [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) 1872&mdash;1970
   * [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) 1910, 1912, 1913
 * [Gerd Faltings](https://en.wikipedia.org/wiki/Gerd_Faltings)
