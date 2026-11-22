@@ -15,6 +15,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Google Scholar](https://scholar.google.com/citations?user=LRivg1cAAAAJ&hl=en)
   * [Jacob Coxon](https://en.wikipedia.org/wiki/Jacob_Coxon)
   * [The Hugging Face incident and other third-party impact from misaligned models](https://openai.com/hugging-face-incident-and-misalignment/)
+  * [Recursive self-improvement](https://en.wikipedia.org/wiki/Recursive_self-improvement)
 * [AI Resources at IEEE](https://ai.ieee.org/)
 * [Why do we take LLMs seriously as a potential source of biorisk?](https://www.anthropic.com/research/biorisk), September 5, 2025
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
