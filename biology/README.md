@@ -8,6 +8,7 @@
 * [Artificial cell](https://en.wikipedia.org/wiki/Artificial_cell)
   * [SpudCell](https://en.wikipedia.org/wiki/SpudCell)
 * [Astrocyte](https://en.wikipedia.org/wiki/Astrocyte)
+* [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca)
 * [Biome](https://en.wikipedia.org/wiki/Biome)
   * [Fauna](https://en.wikipedia.org/wiki/Fauna)
   * [Flora](https://en.wikipedia.org/wiki/Flora)
