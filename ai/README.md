@@ -78,10 +78,10 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
   * [Consciousness](https://en.wikipedia.org/wiki/Consciousness)
   * [Wisdom](https://en.wikipedia.org/wiki/Wisdom) also known as sapience
-* [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/) (CASMI)
-* [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
 * [Simulacrum](https://en.wikipedia.org/wiki/Simulacrum)
   * [*Simulacra and Simulation*](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) 1981 by [Jean Baudrillard](https://en.wikipedia.org/wiki/Jean_Baudrillard) 1929&mdash;2007
+* [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/) (CASMI)
+* [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
 * [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)
   * [Andrew Yao](https://en.wikipedia.org/wiki/Andrew_Yao) 2000
 * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
