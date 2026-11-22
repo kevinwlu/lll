@@ -487,6 +487,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Introducing Superalignment](https://openai.com/index/introducing-superalignment/), July 5, 2023
   * [Sora](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)), February 15, 2024
   * [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/), September 8, 2026
+  * [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/), October 26, 2026
 * [OpenClaw](https://en.wikipedia.org/wiki/OpenClaw)
   * [Peter Steinberger (programmer)](https://en.wikipedia.org/wiki/Peter_Steinberger_(programmer))
 * [OpenMinded](https://www.openmined.org/)
