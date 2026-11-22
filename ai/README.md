@@ -39,6 +39,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good)
   * [Website](https://ai4good.org/)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
+* [AI safety](https://en.wikipedia.org/wiki/AI_safety)
 * [AI Safety and Security Advsory Board](https://www.dhs.gov/ai/promoting-ai-safety-and-security) (AISSB)
 * [Chief Digital and Artificial Intelligence Office](https://www.ai.mil/) (CDAO)
   * [Joint Artificial Intelligence Center](https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center) (JAIC)
@@ -289,6 +290,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [CoachGPT | Second Nature](https://coach.secondnature.io/)
 * [TelecomGPT](https://arxiv.org/abs/2407.09424): A Framework to Build Telecom-Specfic Large Language Models
 ## AI Companies
+* [Advanced Machine Intelligence](https://amilabs.xyz/) AMI Labs
+  * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+* [AdvancedSoft Corporation](https://www.advancesoft.jp/en/)
 * AI Creativity S.r.l.
   * [Remini](https://remini.ai/)
 * [AI21 Labs](https://en.wikipedia.org/wiki/AI21_Labs)
@@ -302,9 +306,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Tülu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124), November 22, 2024
   * [Tülu 3 Models](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
   * [Ai2 Playground](https://playground.allenai.org/)
-* [Advanced Machine Intelligence](https://amilabs.xyz/) AMI Labs
-  * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
-* [AdvancedSoft Corporation](https://www.advancesoft.jp/en/)
+* [Alignment Research Center](https://en.wikipedia.org/wiki/Alignment_Research_Center) (ARC)
+  * [Michael Winer](https://mikewinsgithub.github.io/)
+    * [Google Scholar](https://scholar.google.com/citations?user=YNMr3NoAAAAJ&hl=en)
 * [Amazon Bedrock](https://en.wikipedia.org/wiki/Amazon_Bedrock)
 * [Amazon Q](https://en.wikipedia.org/wiki/Amazon_Q)
   * [Introducing Amazon Q, a new generative AI-powered assistant (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/) November 28, 2023
