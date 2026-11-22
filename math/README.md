@@ -42,6 +42,9 @@
   * [Twin_prime](https://en.wikipedia.org/wiki/Twin_prime)
 * [Yitang Zhang](https://en.wikipedia.org/wiki/Yitang_Zhang)
 ---
+* [Clay Mathematics Institute](https://en.wikipedia.org/wiki/Clay_Mathematics_Institute) (CMI) was established in 1998
+  * [Landon Thomas Clay](https://en.wikipedia.org/wiki/Landon_T._Clay) 1926&mdash;2017
+  * [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
 * [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection_puzzle)
   * [Henry Dudeney](https://en.wikipedia.org/wiki/Henry_Dudeney) 1857&mdash;1930
   * [Jerry Slocum](https://en.wikipedia.org/wiki/Jerry_Slocum)
