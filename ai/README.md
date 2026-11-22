@@ -103,6 +103,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Spatial intelligence](https://en.wikipedia.org/wiki/Spatial_intelligence_(psychology))
   * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
     * [arXiv](https://arxiv.org/pdf/2501.19393)
+* [Richard Socher](https://en.wikipedia.org/wiki/Richard_Socher)
+  * [Website](https://www.socher.org/)
+  * [Recursive AI](https://recursive.com/)
 * [Knowledge distillation](https://en.wikipedia.org/wiki/Knowledge_distillation) or model distillation
 * [Open weights](https://en.wikipedia.org/wiki/Open_weights)
 ##
