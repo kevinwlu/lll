@@ -25,6 +25,8 @@
   * [*Drosera*](https://en.wikipedia.org/wiki/Drosera)
   * [Protocarnivorous_plant](https://en.wikipedia.org/wiki/Protocarnivorous_plant)
     * [*Saxifraga*](https://en.wikipedia.org/wiki/Saxifraga)
+* [Chihuahuas Seem to Carry a Tiny Bit of Coyote DNA—but That’s Probably Not Why They Have Fearless Personalities](https://www.smithsonianmag.com/smart-news/chihuahuas-seem-to-carry-a-tiny-bit-of-coyote-dna-but-thats-probably-not-why-they-have-fearless-personalities-180989886/)
+  * [Scalable high resolution ancestry deconvolution for genomic data](https://www.nature.com/articles/s41467-026-75391-0)
 * [Chimera (molecular biology)](https://en.wikipedia.org/wiki/Chimera_(molecular_biology))
   * [Chimera (genetics)](https://en.wikipedia.org/wiki/Chimera_(genetics))
   * [Chimera (mythology)](https://en.wikipedia.org/wiki/Chimera_(mythology))
