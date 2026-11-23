@@ -27,8 +27,8 @@
     * [Giant's Causeway](https://en.wikipedia.org/wiki/Giant%27s_Causeway)
     * [Hallgrímskirkja](https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja)
   * [Beach](https://en.wikipedia.org/wiki/Beach)
-    * [Taking Stock of the World’s Sandy Beaches](https://science.nasa.gov/earth/earth-observatory/taking-stock-of-the-worlds-sandy-beaches-92507/)
-    * [The State of the World’s Beaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC5923213/)
+    * [Taking Stock of the World’s Sandy Beaches](https://science.nasa.gov/earth/earth-observatory/taking-stock-of-the-worlds-sandy-beaches-92507/), August 2, 2018
+    * [The State of the World’s Beaches](https://www.nature.com/articles/s41598-018-24630-6), April 27, 2018
   * [Fjord](https://en.wikipedia.org/wiki/Fjord)
   * [Heath](https://en.wikipedia.org/wiki/Heath)
     * [Calluna](https://en.wikipedia.org/wiki/Calluna) or heather
