@@ -6,6 +6,9 @@
 * [Human](https://en.wikipedia.org/wiki/Human)
 * [Neanderthal](https://en.wikipedia.org/wiki/Neanderthal)
 * [Diaspora](https://en.wikipedia.org/wiki/Diaspora) is a population that is scattered across regions that are separate from its geographic place of origin
+* [Himiko](https://en.wikipedia.org/wiki/Himiko)
+  * [Yamatai](https://en.wikipedia.org/wiki/Yamatai)
+  * [Yamatohime-no-mikoto](https://en.wikipedia.org/wiki/Yamatohime-no-mikoto)
 * [House of Habsburg](https://en.wikipedia.org/wiki/House_of_Habsburg)
   * [Habsburg Castle](https://en.wikipedia.org/wiki/Habsburg_Castle)
   * [Habsburg, Switzerland](https://en.wikipedia.org/wiki/Habsburg,_Switzerland)
