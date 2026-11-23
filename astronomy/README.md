@@ -175,28 +175,4 @@
 Source: An interactive flight through millions of galaxies by [Fiske Planetarium](https://en.wikipedia.org/wiki/Fiske_Planetarium), University of Colorado Boulder and [DESI](https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument) Collaboration
 
 ---
-* [Equal Earth projection](https://en.wikipedia.org/wiki/Equal_Earth_projection)
-* [Geocaching](https://en.wikipedia.org/wiki/Geocaching)
-* [Landform](https://en.wikipedia.org/wiki/Landform)
-  * [Basalt](https://en.wikipedia.org/wiki/Basalt)
-    * [Giant's Causeway](https://en.wikipedia.org/wiki/Giant%27s_Causeway)
-    * [Hallgrímskirkja](https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja)
-  * [Fjord](https://en.wikipedia.org/wiki/Fjord)
-  * [Heath](https://en.wikipedia.org/wiki/Heath)
-    * [Calluna](https://en.wikipedia.org/wiki/Calluna) or heather
-    * [Thistle](https://en.wikipedia.org/wiki/Thistle)
-  * [Lava tube](https://en.wikipedia.org/wiki/Lava_tube)
-  * [Ravine](https://en.wikipedia.org/wiki/Ravine)
-* [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
-* [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
-* [Sedna (mythology)](https://en.wikipedia.org/wiki/Sedna_(mythology)) is the goddess of the sea and marine animals in Inuit religion
-* [Upper-atmospheric lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)
-* [Sprite (lightning)](https://en.wikipedia.org/wiki/Sprite_(lightning))
-* [Tropical cyclone naming](https://en.wikipedia.org/wiki/Tropical_cyclone_naming)
-* [List of highest mountains on Earth](https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth)
-* [Taklamakan Desert](https://en.wikipedia.org/wiki/Taklamakan_Desert)
-  * [Great Green Wall (China)](https://en.wikipedia.org/wiki/Great_Green_Wall_(China))
-* [Yarlung Tsangpo](https://en.wikipedia.org/wiki/Yarlung_Tsangpo)
-* [Inge Lehmann](https://en.wikipedia.org/wiki/Inge_Lehmann) 1888&mdash;1993
-  * [Lehmann discontinuity](https://en.wikipedia.org/wiki/Lehmann_discontinuity)
 * [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium): Sea of Rains on the Moon
