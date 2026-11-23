@@ -20,3 +20,6 @@
 * [Laurasia](https://en.wikipedia.org/wiki/Laurasia)
   * [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) 1878&mdash;1948
   * [Peter_Ziegler](https://en.wikipedia.org/wiki/Peter_Ziegler) 1928&mdash;2013
+* [Beach](https://en.wikipedia.org/wiki/Beach)
+  * [Taking Stock of the World’s Sandy Beaches](https://science.nasa.gov/earth/earth-observatory/taking-stock-of-the-worlds-sandy-beaches-92507/)
+  * [The State of the World’s Beaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC5923213/)
