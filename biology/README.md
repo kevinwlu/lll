@@ -52,6 +52,8 @@
 * [Ecosystem](https://en.wikipedia.org/wiki/Ecosystem)
   * [Ecotone](https://en.wikipedia.org/wiki/Ecotone)
   * [Estuary](https://en.wikipedia.org/wiki/Estuary) 
+* [Epigenetic clock](https://en.wikipedia.org/wiki/Epigenetic_clock)
+  * [Integration of proteomic aging clocks in a phase 2a clinical trial supports simultaneous geroprotective assessment](https://www.nature.com/articles/s41587-026-03286-y), September 7, 2026
 * [Evolutionary developmental biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology)
 * [Fastest animals](https://en.wikipedia.org/wiki/Fastest_animals)
   * [List of birds by flight speed](https://en.wikipedia.org/wiki/List_of_birds_by_flight_speed)
