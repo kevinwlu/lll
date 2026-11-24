@@ -195,6 +195,10 @@
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945
   * [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949
   * [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
+* [*The Two Cultures*](https://en.wikipedia.org/wiki/The_Two_Cultures) 1959
+  * [Charles Percy Snow](https://en.wikipedia.org/wiki/C._P._Snow) 1905&mdash;1980
+  * [Rede Lecture](https://en.wikipedia.org/wiki/Rede_Lecture)
+  * [Robert Rede](https://en.wikipedia.org/wiki/Robert_Rede) 1440&mdash;1519
 * [*To Kill a Mockingbird*](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird) 1960
   * [Harper Lee](https://en.wikipedia.org/wiki/Harper_Lee) 1926&mdash;2016
   * [Mockingbird](https://en.wikipedia.org/wiki/Mockingbird)
