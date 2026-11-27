@@ -186,8 +186,9 @@
   * [Smedley Butler](https://en.wikipedia.org/wiki/Smedley_Butler) 1881&mdash;1940
   * [The Project Gutenberg Canada Ebook](https://gutenberg.ca/ebooks/butlersd-warisaracket/butlersd-warisaracket-00-e.html)
 * [The Snows of Kilimanjaro (short story)](https://en.wikipedia.org/wiki/The_Snows_of_Kilimanjaro_(short_story)) 1936
+  * [Ernest Hemingway](https://en.wikipedia.org/wiki/Ernest_Hemingway) 1899&mdash;1961 
+  * [Mount Kilimanjaro](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
   * [*The Old Man and the Sea*](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea) 1952
-  * [Ernest Hemingway](https://en.wikipedia.org/wiki/Ernest_Hemingway) 1899&mdash;1961
 * [*The Grapes of Wrath*](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath) 1939
   * [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) 1902&mdash;1968
   * [Grapes of Wrath](https://en.wikipedia.org/wiki/Grapes_of_Wrath)
