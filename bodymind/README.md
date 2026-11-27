@@ -5,6 +5,8 @@
   * [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung) 1875&mdash;1961
 * [*Be Here Now*](https://en.wikipedia.org/wiki/Be_Here_Now_(book)) by [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass) 1931&mdash;2019
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
+* [*Lojong*](https://en.wikipedia.org/wiki/Lojong)
+  * [Center for Contemplative Science and Compassion-Based Ethics](https://compassion.emory.edu/)
 * [Algospeak](https://en.wikipedia.org/wiki/Algospeak)
 * [Andrew Steele](https://andrewsteele.co.uk/)
   * [Charles Eugster](https://en.wikipedia.org/wiki/Charles_Eugster) 1919&mdash;2017
