@@ -152,6 +152,9 @@
   * [The Project Gutenberg eBook 11](https://www.gutenberg.org/ebooks/11)
   * [Down the rabbit hole](https://en.wikipedia.org/wiki/Down_the_rabbit_hole)
   * [Beautiful Soup (HTML parser)](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser))
+* [*The Adventures of Tom Sawyer*](https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer) 1876
+  * [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) 1835&mdash;1910
+  * [*Adventures of Huckleberry Finn*](https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn) 1885
 * [*Oahspe: A New Bible*](https://en.wikipedia.org/wiki/Oahspe:_A_New_Bible) 1882
   * John Ballou Newbrough 1828&mdash;1891
   * [Akashic records](https://en.wikipedia.org/wiki/Akashic_records)
